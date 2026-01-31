@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: gray glazed terracotta, color: dark gray medium gray light gray, features: abstract geometric pattern with light gray octagonal shape and interconnected angular lines, symmetry: radial, style: pixel art

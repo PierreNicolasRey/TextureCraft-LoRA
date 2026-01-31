@@ -1,0 +1,1 @@
+minecraft block: material: weathered copper, type: weathered copper trapdoor, color: green and brown, features: square panel with weathered X-shaped brace and beveled edges, style: pixel art

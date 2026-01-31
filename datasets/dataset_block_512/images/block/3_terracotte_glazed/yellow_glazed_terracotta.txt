@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: yellow glazed terracotta, color: yellow orange brown, features: pixelated yellow surface with central sun-like circular pattern and radiating orange segments over brown background, symmetry: radial, style: pixel art

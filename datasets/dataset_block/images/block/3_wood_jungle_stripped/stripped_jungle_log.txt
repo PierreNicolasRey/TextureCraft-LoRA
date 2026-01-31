@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: stripped jungle log, color: light brown, features: horizontal light brown wood grain with irregular streaks and subtle texture variations, style: pixel art

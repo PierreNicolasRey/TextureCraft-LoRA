@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: acacia door, color: orange, features: vertical wooden panel with three transparent slits and thicker border at the top edge, background: transparent, style: pixel art

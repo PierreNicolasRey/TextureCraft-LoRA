@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: sapling, color: red orange yellow reddish-brown, features: irregular red cap with orange-yellow highlights and thin reddish-brown twisted stem, background: transparent, style: pixel art

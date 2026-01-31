@@ -1,0 +1,1 @@
+minecraft block: material: concrete powder, type: white concrete powder, color: white, features: grainy surface with speckled texture, style: pixel art

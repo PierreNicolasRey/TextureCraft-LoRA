@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : tinted glass, color : dark gray, features : solid tinted glass block with diagonal bars and dark purple edge, opacity : transparent, style : pixel art

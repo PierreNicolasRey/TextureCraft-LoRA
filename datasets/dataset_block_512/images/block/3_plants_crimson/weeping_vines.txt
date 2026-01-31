@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: weeping vines, color: red, features: two tips of blood-red hanging vines, background: transparent, style: pixel art

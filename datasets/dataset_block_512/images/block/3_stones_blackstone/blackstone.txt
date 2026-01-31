@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: blackstone, color: black dark gray muted blue, features: large irregular and circular rocks with rough edges and directional shading from top left to bottom right, style: pixel art

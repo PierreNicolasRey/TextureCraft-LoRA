@@ -1,0 +1,1 @@
+minecraft block: material: nylium, type: warped nylium, color: dark teal teal cyan, features: pixelated surface with irregular mottled pattern combining various shades of teal and cyan patches, view: top, style: pixel art

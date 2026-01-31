@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: iron trapdoor, color: light gray, features: light gray metallic frame containing small square oppenings separated by a metallic cross, background: transparent, style: pixel art

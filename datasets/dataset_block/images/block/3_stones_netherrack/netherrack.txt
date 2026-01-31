@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: netherrack, color: red dark red, features: irregular rounded pixel clusters with rough porous texture, style: pixel art

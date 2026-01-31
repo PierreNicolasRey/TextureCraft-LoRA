@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: crimson roots, color: red, features: vertical tangle of jagged red strands, background: transparent, style: pixel art

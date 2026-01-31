@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: dark oak door, color: dark brown yellow gray, features: two vertical dark brown panels inside a frame with yellow handle on right and gray hinge on left, style: pixel art

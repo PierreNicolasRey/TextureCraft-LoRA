@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : lime stained glass pane, color : lime, features : centered 2 px lime stained glass pane, opacity : transparent, background : transparent, style : pixel art

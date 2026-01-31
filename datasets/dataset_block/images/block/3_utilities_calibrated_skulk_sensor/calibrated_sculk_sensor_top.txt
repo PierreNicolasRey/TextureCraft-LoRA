@@ -1,0 +1,1 @@
+minecraft block: material: crystal organic, type: calibrated sculk sensor, color: teal dark teal purple gray, features: dark teal organic surface with some gray and teal spots with a vertical crack starting from the center and reaching the bottom edge filled with purple amethyst crystal, view: top, style: pixel art

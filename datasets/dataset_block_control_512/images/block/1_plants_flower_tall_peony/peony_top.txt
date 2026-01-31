@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: peony, color: green pink, features: dense green foliage with circular pink flowers, background: transparent, style: pixel art

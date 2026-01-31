@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: chorus flower dead, color: yellow purple, features: faded yellow center surrounded by dark purple patches, style: pixel art

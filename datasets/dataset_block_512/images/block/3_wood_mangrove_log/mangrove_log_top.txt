@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: mangrove log, color: dark red brown, features: concentric square growth rings in dark red surrounded by textured dark brown bark border, view: top, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block : material : honey, type : honey block, color : orange, features : darker honey texture with irregular orange and yellow shapes, opacity : semi-transparent, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: fire coral, color: red, features: branching structure with jagged edges and gradient from dark red base to bright red tips, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: white wool, color: white, features: soft white surface with subtle textile texture, style: pixel art

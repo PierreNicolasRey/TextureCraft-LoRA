@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: bedrock, color: gray dark gray black, features: chaotic cracked pattern with jagged gray and black fragments, style: pixel art

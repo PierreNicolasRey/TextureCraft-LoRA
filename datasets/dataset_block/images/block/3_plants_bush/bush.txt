@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: bush, color: gray, features: dense irregular foliage forming a compact bush, background: transparent, style: pixel art

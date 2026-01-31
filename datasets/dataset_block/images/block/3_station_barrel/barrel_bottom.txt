@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: barrel, color: brown, features: horizontal brown wooden planks inside a square frame, view: bottom, style: pixel art

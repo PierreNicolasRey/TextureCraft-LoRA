@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: comparator, color: gray red, features: smooth gray stone surface with one central arrow on the left and right edges pointing toward the center and an inverted U-shape in the center with a glowing red line at the bottom of the U closing it, style: pixel art

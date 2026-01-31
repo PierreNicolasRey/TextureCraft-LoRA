@@ -1,0 +1,1 @@
+minecraft block: material: wax, type: orange candle, color: orange, features: single orange candle without flame, style: pixel art

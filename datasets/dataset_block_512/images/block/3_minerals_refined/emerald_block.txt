@@ -1,0 +1,1 @@
+minecraft block : material : emerald, type : emerald block, color : emerald green, features : solid emerald block with concentric square banding and central geometric motif, style : pixel art

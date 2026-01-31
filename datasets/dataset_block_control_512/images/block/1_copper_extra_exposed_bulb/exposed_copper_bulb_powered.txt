@@ -1,0 +1,1 @@
+minecraft block: material: exposed copper, type: exposed copper bulb powered, color: faded reddish-brown dark brown red, features: symmetrical cross-like pattern with tarnished copper segments and central red dot indicating powered state, style: pixel art

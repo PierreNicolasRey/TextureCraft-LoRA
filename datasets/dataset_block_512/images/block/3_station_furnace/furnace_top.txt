@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: furnace, color: dark gray, features: rocky dark gray surface inside with darker edges, view: top, style: pixel art

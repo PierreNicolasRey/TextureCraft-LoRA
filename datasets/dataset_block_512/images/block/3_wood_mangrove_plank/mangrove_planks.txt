@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: mangrove planks, color: dark red brown, features: horizontal dark red-brown wood planks with subtle grain texture and slight color variation between boards, style: pixel art

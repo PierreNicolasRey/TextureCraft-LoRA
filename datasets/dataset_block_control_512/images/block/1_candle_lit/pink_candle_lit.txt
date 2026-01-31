@@ -1,0 +1,1 @@
+minecraft block: material: wax and flame, type: pink candle lit, color: pink and orange, features: single pink candle with glowing flame and subtle smoke effect, style: pixel art

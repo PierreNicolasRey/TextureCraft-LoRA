@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: horn coral, color: yellow, features: branching yellow coral with central stem and multiple offshoots in varied pixel shading, background: transparent, style: pixel art

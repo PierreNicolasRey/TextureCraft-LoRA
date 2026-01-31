@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: resin clump, color: bright orange, features: scattered bright orange resin clumps, background: transparent, style: pixel art

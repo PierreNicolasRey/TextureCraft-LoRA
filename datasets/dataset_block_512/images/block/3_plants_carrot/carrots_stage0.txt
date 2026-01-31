@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: carrot, color: green, features: three short green sprouts each with two small upward-facing leaves, background: transparent, style: pixel art

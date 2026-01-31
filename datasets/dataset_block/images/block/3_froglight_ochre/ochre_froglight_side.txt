@@ -1,0 +1,1 @@
+minecraft block : material : crystal, type : froglight, color : ochre yellow gold, features : vertical waveform pattern with jagged edges, view : side, style : pixel art

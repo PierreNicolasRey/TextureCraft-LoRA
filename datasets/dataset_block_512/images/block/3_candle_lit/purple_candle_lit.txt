@@ -1,0 +1,1 @@
+minecraft block: material: wax and flame, type: purple candle lit, color: purple and orange, features: single purple candle with glowing flame and subtle smoke effect, style: pixel art

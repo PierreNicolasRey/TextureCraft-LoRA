@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: light blue glazed terracotta, color: light blue white dark blue, features: pixelated surface with white and dark blue angular shapes forming a symmetrical floral-like pattern, symmetry: quadrant, style: pixel art

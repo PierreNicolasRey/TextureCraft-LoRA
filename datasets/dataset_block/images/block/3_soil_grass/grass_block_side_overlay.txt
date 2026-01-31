@@ -1,0 +1,1 @@
+minecraft block : material : grass, type: grass block overlay, color : gray, features : thin gray grass layer, view : side, background : transparent, style : pixel art

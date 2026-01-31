@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: fire coral block, color: red, features: compact cluster of embedded branching shapes with varied red shading, style: pixel art

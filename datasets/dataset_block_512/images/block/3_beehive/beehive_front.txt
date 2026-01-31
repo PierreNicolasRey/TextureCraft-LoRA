@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: beehive front, color: golden brown light brown, features: horizontal wooden slats with central latch and decorative bolts, style: pixel art

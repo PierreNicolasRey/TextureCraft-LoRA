@@ -1,0 +1,1 @@
+minecraft block: material: crystal, type: small amethyst bud, color: deep purple lavender lilac, features: symmetrical budding crystals with glowing highlights, style: pixel art

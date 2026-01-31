@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: brown terracotta, color: dark brown, features: solid dark brown surface with subtle pixel variation, style: pixel art

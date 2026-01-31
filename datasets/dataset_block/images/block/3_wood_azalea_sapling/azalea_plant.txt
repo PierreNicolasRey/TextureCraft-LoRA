@@ -1,0 +1,1 @@
+minecraft block: material: azalea, type: sapling, color: brown and green, features: small pixelated sapling with forked trunk and dense foliage, background: transparent, style: pixel art

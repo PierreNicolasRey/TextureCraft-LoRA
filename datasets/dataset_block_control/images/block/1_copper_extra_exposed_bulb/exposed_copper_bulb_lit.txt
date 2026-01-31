@@ -1,0 +1,1 @@
+minecraft block: material: exposed copper, type: exposed copper bulb lit, color: faded reddish-brown glowing yellow, features: symmetrical cross-like pattern with illuminated tarnished copper segments and soft inner glow, style: pixel art

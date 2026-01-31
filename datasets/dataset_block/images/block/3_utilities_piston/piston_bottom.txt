@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: piston, color: gray, features: rocky gray stone surface with darker edges, view: bottom, style: pixel art

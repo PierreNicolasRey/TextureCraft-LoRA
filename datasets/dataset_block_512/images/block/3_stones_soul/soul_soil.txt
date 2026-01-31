@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: soul soil, color: dark brown, features: diagonal dark streaks with slightly wavy edges, style: pixel art

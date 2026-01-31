@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: light gray terracotta, color: muted beige, features: solid muted beige surface with subtle pixel variation, style: pixel art

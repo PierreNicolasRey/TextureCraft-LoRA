@@ -1,0 +1,1 @@
+minecraft block: material: dirt and snow, type: grass block, color: medium brown white, features: mottled brown dirt surface with subtle pixel variation partially covered by a white snow layer, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: nether wart, color: dark red, features: four dark red twisting stems of varied heigth with lighter bulb on top, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: bamboo mosaic, color: yellow, features: interlocking rectangular bamboo tiles arranged in alternating horizontal and vertical orientation, style: pixel art

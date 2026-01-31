@@ -1,0 +1,1 @@
+minecraft block: material: exposed copper, type: exposed copper grate, color: faded reddish-brown and pink, features: grid of tarnished copper tiles with scattered black cross-shaped vents, style: pixel art

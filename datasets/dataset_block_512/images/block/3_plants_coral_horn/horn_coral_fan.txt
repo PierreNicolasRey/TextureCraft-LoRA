@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: horn coral fan, color: yellow, features: vertical yellow sea fan with irregular branches and gradient from dark base to bright tips, background: transparent, style: pixel art

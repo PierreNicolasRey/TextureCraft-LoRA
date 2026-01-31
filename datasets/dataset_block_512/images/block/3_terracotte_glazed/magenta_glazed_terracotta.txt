@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: magenta glazed terracotta, color: magenta pink purple, features: pixelated magenta surface with upward-pointing pink arrow over striped purple background, symmetry: mirrored, style: pixel art

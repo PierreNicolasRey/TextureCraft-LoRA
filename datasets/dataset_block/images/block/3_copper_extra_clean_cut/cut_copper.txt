@@ -1,0 +1,1 @@
+minecraft block: material: copper, type: cut copper, color: reddish-brown, features: segmented surface with diagonal engraved lines forming a grid of four panels, style: pixel art

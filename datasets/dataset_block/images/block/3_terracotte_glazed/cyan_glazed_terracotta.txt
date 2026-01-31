@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: cyan glazed terracotta, color: cyan turquoise dark gray, features: pixelated pattern with dark gray square shapes arranged in a facial-like layout over abstract turquoise background, symmetry: mirrored, style: pixel art

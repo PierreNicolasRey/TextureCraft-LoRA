@@ -1,0 +1,1 @@
+minecraft block: material: copper, type: copper grate, color: reddish-brown, features: grid of engraved copper tiles with scattered black cross-shaped vents, style: pixel art

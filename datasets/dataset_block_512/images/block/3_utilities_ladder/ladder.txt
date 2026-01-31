@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: ladder, color: brown, features: brown wooden ladder made of 2 vertical shafts supporting 4 evenly spaced bars, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: crystal, type: budding amethyst, color: deep purple lavender, features: central budding cluster with glowing highlights with textured surface, style: pixel art

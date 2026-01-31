@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: yellow terracotta, color: mustard, features: solid mustard surface with subtle pixel variation, style: pixel art

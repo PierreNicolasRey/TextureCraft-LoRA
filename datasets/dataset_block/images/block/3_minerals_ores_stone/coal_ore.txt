@@ -1,0 +1,1 @@
+minecraft block : material : stone, type : coal ore, color : light gray black, features : light gray stone texture with fine-grained pixel clusters and soft irregular shading and embedded black coal fragments, style : pixel art

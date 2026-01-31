@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: chorus flower, color: white purple, features: symmetrical five-petaled flower with light center and dark purple edges, style: pixel art

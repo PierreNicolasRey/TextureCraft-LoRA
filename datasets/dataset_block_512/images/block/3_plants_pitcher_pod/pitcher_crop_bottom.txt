@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pitcher crop, color: brown dark brown, features: brown square with dark brown internal jagged edges, background: transparent, view: bottom, style: pixel art

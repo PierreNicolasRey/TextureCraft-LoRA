@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: tall dry grass, color: beige brown, features: tall clustered stalks with dry seed heads, background: transparent, style: pixel art

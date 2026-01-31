@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: dropper, color: gray black, features: gray stone rocky surface with a black horizontal rectangle openning in the center, style: pixel art

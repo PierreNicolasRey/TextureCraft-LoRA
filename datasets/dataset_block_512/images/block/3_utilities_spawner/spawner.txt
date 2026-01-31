@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: spawner, color: dark blue dark purple, features: dark blue metallic frame enclosing a dark blue grid with a central dark blue skull with dark purple eyes, background: transparent, style: pixel art

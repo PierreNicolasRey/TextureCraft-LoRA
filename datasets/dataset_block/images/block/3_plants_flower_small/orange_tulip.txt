@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: tulip, color: orange green dark orange, features: single U-shaped orange flower with dark orange base on straight green stem with two vertical leaves, background: transparent, style: pixel art

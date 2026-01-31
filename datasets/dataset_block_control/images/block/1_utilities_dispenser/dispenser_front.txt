@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: dispenser, color: gray black, features: gray stone surface with an inverted W-shape carved outside of the W is darker and inside is lighter with 2 holes and a centered circle black openning, style: pixel art

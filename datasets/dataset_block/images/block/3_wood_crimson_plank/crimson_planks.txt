@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: crimson planks, color: dark reddish-purple, features: horizontal dark reddish-purple planks with subtle wood grain and uneven gaps, style: pixel art

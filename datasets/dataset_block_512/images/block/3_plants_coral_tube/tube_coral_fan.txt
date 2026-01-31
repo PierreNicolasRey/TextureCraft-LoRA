@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: tube coral fan, color: blue, features: vertical blue sea fan composed of short open tubes with varied pixel shading, background: transparent, style: pixel art

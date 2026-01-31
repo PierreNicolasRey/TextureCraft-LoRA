@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: mushroom stem, color: light beige beige, features: light beige background with horizontal beige wavy bands and subtle texture, style: pixel art

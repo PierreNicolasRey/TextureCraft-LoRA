@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: cherry planks, color: pink, features: horizontal cherry planks of uneven width in varying shades of pink forming subtle wood grain, style: pixel art

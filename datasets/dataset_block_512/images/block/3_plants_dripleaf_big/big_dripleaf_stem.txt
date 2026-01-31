@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: big dripleaf, color: green, features: two intertwined green stems with varied shading and a few small leaves, background: transparent, style: pixel art

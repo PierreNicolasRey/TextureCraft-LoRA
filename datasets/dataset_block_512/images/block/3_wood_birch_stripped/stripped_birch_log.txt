@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: stripped birch log, color: pale beige and light brown, features: smooth vertical pattern with subtle linear grain, style: pixel art

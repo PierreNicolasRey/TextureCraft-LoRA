@@ -1,0 +1,1 @@
+minecraft block: material: iron, type: anvil, color: dark gray, features: smooth dark gray surface with sublte variations, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: exposed copper, type: exposed copper door top, color: faded reddish-brown and pink, features: upper half of a copper door with tarnished X-shaped brace and corner rivets, style: pixel art

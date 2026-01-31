@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: cartography table, color: dark brown blue green gray red beige, features: dark brown horizontal wooden planks surface with a blue globe with green spots on the bottom left corner a gray compass with a red needle near the top left corner and a beige map with darker dots and a red dot on the right, view: top, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: birch log, color: white dark gray, features: irregular horizontal birch bark pattern with dark speckles and layered texture, style: pixel art

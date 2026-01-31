@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: tuff brick, color: dark greenish gray, features: large rectangular bricks with uneven surface and dark joints, style: pixel art

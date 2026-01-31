@@ -1,0 +1,1 @@
+minecraft block: material: wax, type: purple candle, color: purple, features: single purple candle without flame, style: pixel art

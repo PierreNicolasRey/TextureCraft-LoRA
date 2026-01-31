@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: polished tuff, color: dark greenish gray, features: smooth texture with subtle color variation, style: pixel art

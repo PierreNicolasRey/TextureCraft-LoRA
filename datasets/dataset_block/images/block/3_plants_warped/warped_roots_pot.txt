@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: warped roots, color: teal, features: grouped at the base tall vertical teal sprouts with bulbous lighter tips, background: transparent, style: pixel art

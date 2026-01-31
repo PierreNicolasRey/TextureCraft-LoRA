@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: chiseled bookshelf, color: beige dark brown, features: beige frame with a beige horizontal wooden plank separating two dark brown recess shelves with six books as vertical rectangles of varying height and color, view: front, style: pixel art

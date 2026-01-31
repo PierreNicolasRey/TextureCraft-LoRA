@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: spruce door, color: brown dark gray, features: five vertical brown planks with dark gray circular handle top right and dark gray horizontal row of nails, style: pixel art

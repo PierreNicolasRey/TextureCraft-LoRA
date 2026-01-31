@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled nether bricks, color: dark red brown black, features: engraved brick pattern with stylized skull motif, style: pixel art

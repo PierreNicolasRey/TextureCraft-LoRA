@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: gilded blackstone, color: black dark gray orange, features: irregular dark stone surface with angular fragments and embedded glowing orange veins, style: pixel art

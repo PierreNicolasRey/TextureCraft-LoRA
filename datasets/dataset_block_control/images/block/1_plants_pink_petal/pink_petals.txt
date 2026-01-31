@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pink petals, color: pink light pink, features: scattered large light pink flowers and small pink flowers and petals, background: transparent, style:pixel art

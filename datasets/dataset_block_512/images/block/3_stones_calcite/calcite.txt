@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: calcite, color: white light gray, features: irregular soft-edged pattern with blended pale tones, style: pixel art

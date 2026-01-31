@@ -1,0 +1,1 @@
+minecraft block : material : ancient debris, type : ancient debris block, color : dark brown metallic gray, features : dark brown block with concentric square motifs and subtle metallic highlights, style : pixel art

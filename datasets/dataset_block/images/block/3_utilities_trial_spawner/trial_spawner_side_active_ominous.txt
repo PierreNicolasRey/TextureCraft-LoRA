@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: trial spawner, color: dark blue azur red, features: dark blue metallic frame with azur top corners enclosing a grid with a central frieze of 3 dark blue skull with red eyes only half of the edges ones is visible, background: transparent, view: side, style: pixel art

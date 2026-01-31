@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: cornflower, color: blue green, features: single blue flower with irregular petals on a straight green stem with one leaf, background: transparent, style: pixel art

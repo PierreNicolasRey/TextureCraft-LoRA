@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: crafter, color: gray red, features: gray stone frame with glowing red top corners containing a 3x3 glowing red grid, view: top, style: pixel art

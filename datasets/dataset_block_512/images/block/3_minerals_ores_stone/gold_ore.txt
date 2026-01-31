@@ -1,0 +1,1 @@
+minecraft block : material : stone, type : gold ore, color : light gray yellow orange, features : light gray stone texture with fine-grained pixel clusters and soft irregular shading and embedded gold fragments in yellow and orange hues, style : pixel art

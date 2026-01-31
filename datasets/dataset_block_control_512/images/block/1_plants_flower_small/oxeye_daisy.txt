@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: oxeye daisy, color: white yellow green, features: single circular white flower with yellow center on straight green stem with two leaves, background: transparent, style: pixel art

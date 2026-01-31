@@ -1,0 +1,1 @@
+minecraft block: material: copper, type: copper bulb lit, color: reddish-brown glowing yellow, features: symmetrical cross-like pattern with illuminated copper segments and soft inner glow, style: pixel art

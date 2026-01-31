@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: blue orchid, color: sky blue green, features: cluster of sky blue flowers with varied shading supported by branching green stems, background: transparent, style: pixel art

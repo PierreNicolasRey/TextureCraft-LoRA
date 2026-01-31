@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: bubble coral block, color: purple, features: irregular rounded shapes with lighter pink centers and darker purple edges, style: pixel art

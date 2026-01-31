@@ -1,0 +1,1 @@
+minecraft block: material: exposed copper, type: exposed chiseled copper, color: faded reddish-brown and brown, features: symmetrical decorative pattern with tarnished copper engravings and central square motif, style: pixel art

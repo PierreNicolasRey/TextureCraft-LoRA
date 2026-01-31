@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: crafter, color: gray, features: gray stone frame containing a gray stone surface with darker accents, view: bottom, style: pixel art

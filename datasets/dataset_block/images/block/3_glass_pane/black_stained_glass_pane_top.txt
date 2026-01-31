@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : black stained pane, color : black, features : centered 2 px black stained glass pane, opacity : transparent, background : transparent, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: cobbled deepslate, color: black dark gray, features: irregular cobblestone pattern with varied shapes and rough texture, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: polished diorite, color: white light gray dark gray, features: smooth white surface with irregular grayscale inclusions, style: pixel art

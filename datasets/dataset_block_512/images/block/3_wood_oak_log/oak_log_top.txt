@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: oak log, color: golden brown medium brown, features: concentric square growth rings in golden brown tones with subtle wood grain variation and medium brown darker outer border, view: top, style: pixel art

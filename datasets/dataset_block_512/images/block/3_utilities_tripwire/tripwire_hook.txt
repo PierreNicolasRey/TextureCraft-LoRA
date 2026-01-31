@@ -1,0 +1,1 @@
+minecraft block: material: wood metal, type: tripwire, color: beige gray, features: small beige vertical stick topped by a larger gray metallic square with a hollow center, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: azure bluet, color: white blue yellow green, features: multiple white flowers with light blue shading and a yellow area centered at the top above a branching green stem, background: transparent, style: pixel art

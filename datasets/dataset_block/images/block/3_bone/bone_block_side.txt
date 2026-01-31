@@ -1,0 +1,1 @@
+minecraft block: material: bone, type: bone block, color: off-white, features: subtle off-white gradients on smooth surface, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block : material : stone, type : copper ore, color : light gray orange teal, features : light gray stone texture with fine-grained pixel clusters and soft irregular shading and embedded copper fragments in orange and teal hues, style : pixel art

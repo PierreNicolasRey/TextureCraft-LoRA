@@ -1,0 +1,1 @@
+minecraft block: material: mineral cloth, type: enchanting table, color: azur red, features: azur mineral square on each corner and a cross-shape red cloth with a darker circle in the center, view: top, style: pixel art

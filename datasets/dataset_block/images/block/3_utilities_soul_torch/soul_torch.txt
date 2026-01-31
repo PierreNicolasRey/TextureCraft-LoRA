@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: soul torch, color: brown azur, features: central brown wooden stick topped by a glowing azur square, background: transparent, style: pixel art

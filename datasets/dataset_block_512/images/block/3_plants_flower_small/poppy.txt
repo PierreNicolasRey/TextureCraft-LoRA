@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: poppy, color: red dark green, features: single red flower with dark center on straight dark green stem with two leaves at the base, background: transparent, style: pixel art

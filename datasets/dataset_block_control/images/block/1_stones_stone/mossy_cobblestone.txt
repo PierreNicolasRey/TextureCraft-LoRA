@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: mossy cobblestone, color: green and gray, features: irregular stones in a rounded cluster with moss patches, style: pixel art

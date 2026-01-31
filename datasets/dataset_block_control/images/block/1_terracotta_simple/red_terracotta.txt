@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: red terracotta, color: cinnabar, features: solid cinnabar surface with subtle pixel variation, style: pixel art

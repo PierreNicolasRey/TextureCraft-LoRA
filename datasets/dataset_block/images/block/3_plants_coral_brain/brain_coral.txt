@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: brain coral, color: pink, features: dense network of branching twisted coral polyps, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: hopper, color: dark gray, features: dark gray metallic surface growing darker from top to bottom with 2 very dark horizontal lines, view: outside, style: pixel art

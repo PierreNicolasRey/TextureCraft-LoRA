@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: red sand, color: orange, features: irregular pixel clusters with mottled distribution, style: pixel art

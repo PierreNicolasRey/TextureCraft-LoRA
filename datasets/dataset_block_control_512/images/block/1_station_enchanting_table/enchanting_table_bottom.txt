@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: enchanting table, color: black dark purple, features: black surface with dark purple spots, view: bottom, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: oxidized copper, type: oxidized copper bulb lit, color: greenish-blue glowing orange, features: symmetrical cross-like pattern with illuminated oxidized copper segments and soft inner glow, style: pixel art

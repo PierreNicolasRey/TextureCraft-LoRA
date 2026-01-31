@@ -1,0 +1,1 @@
+minecraft block: material: copper, type: chiseled copper, color: reddish-brown and dark brown, features: symmetrical decorative pattern with copper engravings and central square motif, style: pixel art

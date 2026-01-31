@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: jungle planks, color: light brown, features: horizontal light brown planks with subtle wood grain and uneven gaps, style: pixel art

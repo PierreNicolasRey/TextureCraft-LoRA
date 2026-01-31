@@ -1,0 +1,1 @@
+minecraft block : material : dirt, type : farmland, color : dark brown, features : compacted surface with subtle pixel variation and two irregular vertical furrows, view : top, style : pixel art

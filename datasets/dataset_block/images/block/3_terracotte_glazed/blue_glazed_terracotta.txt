@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: blue glazed terracotta, color: dark blue light blue, features: dark blue base with light blue geometric diamond and stripe pattern forming symmetrical angular shapes, symmetry: rotational, style: pixel art

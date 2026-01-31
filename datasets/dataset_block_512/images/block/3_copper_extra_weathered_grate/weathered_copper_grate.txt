@@ -1,0 +1,1 @@
+minecraft block: material: weathered copper, type: weathered copper grate, color: green and brown, features: grid of weathered copper tiles with scattered black cross-shaped vents, style: pixel art

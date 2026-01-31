@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: red mushroom block, color: red white pink, features: red background with three irregular white and light pink circular spots and subtle textured surface, style: pixel art

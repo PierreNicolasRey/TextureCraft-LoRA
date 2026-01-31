@@ -1,0 +1,1 @@
+minecraft block : material : iron, type : raw iron, color : beige brown, features : block composed entirely of raw iron with irregular clustered surface patterns and subtle metallic shading, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pale moss carpet, color: pale greenish gray, features: soft moss texture with darker accent, style: pixel art

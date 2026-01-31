@@ -1,0 +1,1 @@
+minecraft block: material: copper, type: copper trapdoor, color: reddish-brown, features: square panel with raised X-shaped brace and beveled edges, style: pixel art

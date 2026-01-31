@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: brown glazed terracotta, color: brown beige teal, features: layered brown triangular pattern surrounded by teal angular shapes forming a symmetrical star-like design, symmetry: quadrant, style: pixel art

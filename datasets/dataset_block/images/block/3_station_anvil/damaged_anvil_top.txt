@@ -1,0 +1,1 @@
+minecraft block: material: iron, type: damaged anvil, color: dark gray black, features: central vertical rectangle with dark gray surface and black cracks, background: transparent, view: top, style: pixel art

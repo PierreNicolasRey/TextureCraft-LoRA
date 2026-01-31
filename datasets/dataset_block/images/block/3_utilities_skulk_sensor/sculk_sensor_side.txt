@@ -1,0 +1,1 @@
+minecraft block: material: organic, type: skulk sensor, color: dark teal teal light blue, features: dark teal surface on the bottom half with lighter top and darker bottom and with some teal and light blue spots, background: transparent, view: side, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: cut sandstone, color: beige, features: horizontal top band above irregular pixel clusters with subtle tonal variation, style: pixel art

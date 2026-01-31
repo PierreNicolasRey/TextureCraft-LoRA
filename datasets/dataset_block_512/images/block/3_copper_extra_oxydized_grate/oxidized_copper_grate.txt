@@ -1,0 +1,1 @@
+minecraft block: material: oxidized copper, type: oxidized copper grate, color: greenish-blue and teal, features: grid of oxidized copper tiles with scattered black cross-shaped vents, style: pixel art

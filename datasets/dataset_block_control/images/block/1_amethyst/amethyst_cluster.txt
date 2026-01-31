@@ -1,0 +1,1 @@
+minecraft block: material: crystal, type: amethyst cluster, color: purple lavender, features: symmetrical crystal formation with central peak and side facets with highlights and sparkles, style: pixel art

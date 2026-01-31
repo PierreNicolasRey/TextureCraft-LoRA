@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: spruce planks, color: dark brown, features: horizontal dark brown planks with visible grain and subtle knots, style: pixel art

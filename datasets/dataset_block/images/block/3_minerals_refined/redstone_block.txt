@@ -1,0 +1,1 @@
+minecraft block : material : metal, type : redstone block, color : red dark red, features : solid metallic block with lighter edges and irregular darker center, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: fletching table, color: light beige brown white, features: light beig surface onf concentric squares with a white feather on the left and a knife with a brown handle and a white blade on the bottom left corner, view: top, style: pixel art

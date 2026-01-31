@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: spruce log, color: brown dark brown, features: concentric square growth rings in alternating brown tones with central knot and dark brown bark on outer edges, view: top, style: pixel art

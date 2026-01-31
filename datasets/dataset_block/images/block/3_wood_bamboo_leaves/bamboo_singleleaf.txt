@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: leaves, color: green, features: single curved bamboo leaf with slightly curled shape, background: transparent, style: pixel art

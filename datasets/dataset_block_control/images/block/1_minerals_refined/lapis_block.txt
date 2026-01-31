@@ -1,0 +1,1 @@
+minecraft block : material : lapis, type : lapis block, color : blue, features : solid lapis block with irregular mosaic-like banding and subtle color variation, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block : material : organic, type : shroomlight, color : orange light brown, features : irregular glowing clusters with layered orange shades on mottled surface, style : pixel art

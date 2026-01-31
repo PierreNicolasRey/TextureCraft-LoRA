@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: loom, color: light brown white, features: light brown frame with 2 horizontal bands a central one and another near the bottom with 7 white vertical stripes evenly spaced starting above the frame's top edge going above the central band and under the bottom one, view: top, style: pixel art

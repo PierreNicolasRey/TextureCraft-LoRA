@@ -1,0 +1,1 @@
+minecraft block: material: organic, type: skulk shrieker, color: dark teal light blue teal pale green, features: dark teal bottom surface with some teal and light blue spots topped by a pale green horn on each side and with a central pale green circle filled in black, background: transparent, view: side, style: pixel art

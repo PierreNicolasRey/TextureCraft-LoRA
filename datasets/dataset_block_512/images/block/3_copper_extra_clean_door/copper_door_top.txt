@@ -1,0 +1,1 @@
+minecraft block: material: copper, type: copper door top, color: reddish-brown, features: upper half of a copper door with engraved X-shaped brace and corner rivets, style: pixel art

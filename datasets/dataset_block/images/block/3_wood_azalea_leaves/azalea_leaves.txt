@@ -1,0 +1,1 @@
+minecraft block: material: leaves, type: azalea leaves, color: lime green dark green dark olive green, features: a dense irregular checkerboard pattern composed of leaf clusters with varying shades of green, background: transparent, style: pixel art

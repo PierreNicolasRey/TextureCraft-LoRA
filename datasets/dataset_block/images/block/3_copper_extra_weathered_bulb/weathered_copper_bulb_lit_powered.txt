@@ -1,0 +1,1 @@
+minecraft block: material: weathered copper, type: weathered copper bulb lit powered, color: green orange red, features: symmetrical cross-like pattern with glowing weathered copper segments and central red dot indicating active powered state, style: pixel art

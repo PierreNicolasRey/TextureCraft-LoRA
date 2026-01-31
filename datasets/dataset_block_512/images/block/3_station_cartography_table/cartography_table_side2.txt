@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: cartography table, color: dark brown gold green blue yellow, features: L-shape dark brown wooden desk made of vertical planks with a blue globe with yellow and green spots on a golden base on the desk table on the right and pale yellow binoculars hanging on the center, view: side, style: pixel art

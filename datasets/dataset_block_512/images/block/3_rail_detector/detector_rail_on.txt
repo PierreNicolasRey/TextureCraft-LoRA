@@ -1,0 +1,1 @@
+minecraft block : material : metal, type : detector rail, color : bright red gray brown, features : parallel metal rails connected by wooden planks with central gray square embedded in glowing red base, background : transparent, style : pixel art

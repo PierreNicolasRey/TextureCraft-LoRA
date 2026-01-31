@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: birch trapdoor, color: white and beige, features: white panel with fine grid inside beige wooden frame and centered dark brown rectangular handle at bottom, style: pixel art

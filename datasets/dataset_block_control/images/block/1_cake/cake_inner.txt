@@ -1,0 +1,1 @@
+minecraft block: material: food, type: cake inner, color: chocolate brown and white, features: layered cake with white frosting dripping over the edge, style: pixel art

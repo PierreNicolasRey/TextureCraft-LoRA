@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : pink stained pane, color : pink, features : centered 2 px pink stained glass pane, opacity : transparent, background : transparent, style : pixel art

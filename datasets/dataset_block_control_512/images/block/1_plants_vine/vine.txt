@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: vine, color: gray dark gray, features: two gray drooping vertical wavy vines with jagged edges and dark gray accents, background: transparent, style: pixel art

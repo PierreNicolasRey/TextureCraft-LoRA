@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: soul sand, color: dark brown, features: irregular dark patches with screaming soul-like shapes, style: pixel art

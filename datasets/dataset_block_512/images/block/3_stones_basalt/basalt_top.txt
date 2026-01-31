@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: basalt, color: gray dark gray, features: irregular hexagonal pattern with raised and recessed segments in alternating gray tones, view: top, style: pixel art

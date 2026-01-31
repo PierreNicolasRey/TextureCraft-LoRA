@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: quartz bricks, color: ivory, features: horizontally stacked rectangular tiles with subtle pixel shading and darker mortar lines, style: pixel art

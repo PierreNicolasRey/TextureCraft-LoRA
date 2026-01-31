@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pink petals stem, color: light gray, features: very small straight light gray stem, background: transparent, style: pixel art

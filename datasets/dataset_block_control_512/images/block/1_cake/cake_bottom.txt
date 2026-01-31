@@ -1,0 +1,1 @@
+minecraft block: material: food, type: cake bottom, color: brown and reddish-brown, features: pixelated dirt-like texture with embedded pebbles, style: pixel art

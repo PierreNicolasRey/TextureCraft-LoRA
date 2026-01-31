@@ -1,0 +1,1 @@
+minecraft block : material : wood , type : creaking heart awake, color : pale brown fiery orange, features : glowing resin filling concentric tree rings at the heart of a pale oak bark, view : top, style : pixel art

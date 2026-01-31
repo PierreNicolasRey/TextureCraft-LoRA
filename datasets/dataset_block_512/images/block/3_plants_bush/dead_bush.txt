@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead bush, color: brown, features: bare twisting branches forming a dried shrub, background: transparent, style: pixel art

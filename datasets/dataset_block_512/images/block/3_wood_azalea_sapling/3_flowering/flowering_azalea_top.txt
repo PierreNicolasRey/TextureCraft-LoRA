@@ -1,0 +1,1 @@
+minecraft block: material: azalea, type: sapling, color: green and pink, features: pixelated top view of dense green foliage with irregular leaf clusters sprinkled with pink blossoms, view: top, style: pixel art

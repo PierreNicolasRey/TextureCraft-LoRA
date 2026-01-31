@@ -1,0 +1,1 @@
+minecraft block : material : gold, type : gold block, color : golden yellow, features : solid polished gold block with diagonal banding and glossy highlights, style : pixel art

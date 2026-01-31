@@ -1,0 +1,1 @@
+minecraft block: material: leaves, type: mangrove leaves, color: dark grey light grey, features: large overlapping leaf clusters forming a dense irregular pattern composed of dark grey pixels with light grey highlights and visible gaps, background: transparent, style: pixel art

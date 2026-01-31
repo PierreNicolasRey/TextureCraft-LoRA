@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled red sandstone, color: orange, features: symmetrical carved motif with central geometric figure and flanking vertical elements, style: pixel art

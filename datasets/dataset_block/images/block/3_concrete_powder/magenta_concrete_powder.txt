@@ -1,0 +1,1 @@
+minecraft block: material: concrete powder, type: magenta concrete powder, color: magenta, features: grainy surface with speckled texture, style: pixel art

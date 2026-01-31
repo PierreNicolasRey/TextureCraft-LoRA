@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: bookshelf, color: brown red green blue white, features: square brown framed bookshelf in two sections with multiple books of varied height and color some with white labels with a dark brown background visible behind the books, style: pixel art

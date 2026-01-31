@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: end portal frame, color: pale yellow dark teal dark green, features: spongious pale yellow stone surface with dark teal edges and a very dark green square in the center edged with a dark teal border, view: top, style: pixel art

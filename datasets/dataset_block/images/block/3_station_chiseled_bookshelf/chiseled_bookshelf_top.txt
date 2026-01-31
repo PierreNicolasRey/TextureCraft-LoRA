@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: chiseled bookshelf, color: beige, features: beige frame containing a 3x3 grid of squares with darker joints, view: top, style: pixel art

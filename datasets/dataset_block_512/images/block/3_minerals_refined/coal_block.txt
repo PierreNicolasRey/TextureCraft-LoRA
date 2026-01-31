@@ -1,0 +1,1 @@
+minecraft block : material : coal, type : coal block, color : black dark gray, features : solid black coal block with smooth pixel texture and subtle dark gray shading, style : pixel art

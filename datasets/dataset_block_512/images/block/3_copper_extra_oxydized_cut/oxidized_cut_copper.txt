@@ -1,0 +1,1 @@
+minecraft block: material: oxidized copper, type: oxidized cut copper, color: greenish-blue teal, features: segmented surface with diagonal engraved lines forming a grid of four panels fully oxidized texture, style: pixel art

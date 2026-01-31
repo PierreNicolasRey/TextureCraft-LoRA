@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : glass pane, color : clear, features : centered 2 px glass pane, opacity : transparent, background : transparent, style : pixel art

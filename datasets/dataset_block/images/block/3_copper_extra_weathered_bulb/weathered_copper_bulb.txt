@@ -1,0 +1,1 @@
+minecraft block: material: weathered copper, type: weathered copper bulb, color: green and brown, features: symmetrical cross-like pattern with weathered copper segments on matte background, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: concrete powder, type: red concrete powder, color: red, features: grainy surface with speckled texture, style: pixel art

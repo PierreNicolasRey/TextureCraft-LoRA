@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: cherry door, color: pink silver, features: two vertical side planks framing the bottom section top edge shows lower part of lattice panel from upper section separated by a horizontal plank with centered silver circular handle below is a rectangular panel composed of three vertical planks, style: pixel art

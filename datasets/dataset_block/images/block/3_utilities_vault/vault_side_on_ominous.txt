@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: vault, color: dark blue dark gray azur, features: 2 horizontal dark gray stone bars at the top and bottom edges framing a dark blue grid and a glowing azur horizontal central rectangle on the bottom stone bar, view: side, style: pixel art

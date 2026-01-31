@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: packed mud, color: brown beige dark gray, features: compact chocolate brown dry mud, style: pixel art

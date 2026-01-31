@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: tube coral block, color: blue, features: compact cluster of embedded tubular shapes with open tops and varied blue pixel shading, background: transparent, style: pixel art

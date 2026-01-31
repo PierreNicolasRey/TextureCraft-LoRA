@@ -1,0 +1,1 @@
+minecraft block: material: organic, type: skulk catalyst, color: pale green dark teal, features: pale green surface with a central dark teal square with a triangle at each corner connected by the tip, view: bottom, style: pixel art

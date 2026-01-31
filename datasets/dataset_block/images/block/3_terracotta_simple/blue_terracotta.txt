@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: blue terracotta, color: muted purple-blue, features: solid muted purple-blue surface with subtle pixel variation, style: pixel art

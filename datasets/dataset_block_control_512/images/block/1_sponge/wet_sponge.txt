@@ -1,0 +1,1 @@
+minecraft block: material: sponge, type: wet sponge block, color: yellow and olive brown, features: pixelated yellow surface with irregular olive brown porous spots forming a mottled pattern, style: pixel art

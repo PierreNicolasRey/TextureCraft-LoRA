@@ -1,0 +1,1 @@
+minecraft block: material: shell, type: conduit, color: beige light pink, features: square beige shell with irregular light pink stripes and a darker hole near each corners, background: transparent, style: pixel art

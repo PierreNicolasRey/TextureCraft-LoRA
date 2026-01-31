@@ -1,0 +1,1 @@
+minecraft block: material: leaves, type: pale oak leaves, color: light grey dark grey, features: irregular leaf clusters forming a dense checkerboard pattern composed of light grey pixels with dark grey highlights and very small visible gaps, background: transparent, style: pixel art

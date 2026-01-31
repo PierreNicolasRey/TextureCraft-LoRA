@@ -1,0 +1,1 @@
+minecraft block: material: exposed copper, type: exposed cut copper, color: faded reddish-brown pink, features: segmented surface with diagonal engraved lines forming a grid of four panels showing early signs of tarnish, style: pixel art

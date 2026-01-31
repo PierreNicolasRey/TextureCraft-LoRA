@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: magenta wool, color: magenta, features: soft magenta surface with subtle textile texture, style: pixel art

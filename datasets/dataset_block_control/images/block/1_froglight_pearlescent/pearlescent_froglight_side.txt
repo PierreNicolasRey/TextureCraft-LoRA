@@ -1,0 +1,1 @@
+minecraft block : material : crystal, type : froglight, color : pearlescent light purple white, features : vertical waveform pattern with jagged edges and glowing center, view : side, style : pixel art

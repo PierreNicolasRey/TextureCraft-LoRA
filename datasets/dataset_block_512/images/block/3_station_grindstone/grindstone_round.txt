@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: grindstone, color: gray, features: gray stone vertical rectangle on the top left corner with lighter edges, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: stripped dark oak log, color: dark brown, features: concentric square growth rings in dark brown without bark border, view: top, style: pixel art

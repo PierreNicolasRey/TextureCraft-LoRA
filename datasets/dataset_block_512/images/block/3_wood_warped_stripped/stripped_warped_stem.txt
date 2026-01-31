@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: stripped warped stem, color: teal, features: smooth vertical wavy teal pattern with subtle shading variations, style: pixel art

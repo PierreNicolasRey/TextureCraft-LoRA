@@ -1,0 +1,1 @@
+minecraft block: material: stone crystal, type: respawn anchor, color: black dark purple yellow, features: black stone surface with glowing dark purple veins at the bottom half and dark purple surface at the top half with a black circular hole in the center with the top half of the circle filled with a glowing yellow crystal, view: side, style: pixel art

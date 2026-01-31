@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: mud, color: dark brown gray blue, features: smooth pixel clusters with damp texture and subtle shading variations, style: pixel art

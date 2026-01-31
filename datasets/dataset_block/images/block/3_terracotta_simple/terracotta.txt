@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: terracotta, color: burnt orange, features: solid burnt orange surface with subtle pixel variation, style: pixel art

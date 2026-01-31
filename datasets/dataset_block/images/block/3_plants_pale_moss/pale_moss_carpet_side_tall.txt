@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pale moss carpet, color: pale greenish gray, features: tall intricated twisting sprouts with drooping tips, background: transparent, style: pixel art

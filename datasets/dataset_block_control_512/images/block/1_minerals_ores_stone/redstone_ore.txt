@@ -1,0 +1,1 @@
+minecraft block : material : stone, type : redstone ore, color : light gray red, features : light gray stone texture with fine-grained pixel clusters and soft irregular shading and embedded red redstone fragments, style : pixel art

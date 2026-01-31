@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: observer, color: gray dark black, features: dark gray horizontal top rectangle above a gray panel with a face carved in with 2 black eyes with straight eyebrows and small straight mouth, view: front, style: pixel art

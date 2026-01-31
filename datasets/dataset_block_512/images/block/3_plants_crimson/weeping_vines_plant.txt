@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: weeping vines plant, color: red, features: two blood-red hanging vines with orange-red thorns, background: transparent, style: pixel art

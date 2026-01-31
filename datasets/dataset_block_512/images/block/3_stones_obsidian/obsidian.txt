@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: obsidian, color: deep purple black, features: irregular pixel clusters with jagged shapes and dark crystalline texture, style: pixel art

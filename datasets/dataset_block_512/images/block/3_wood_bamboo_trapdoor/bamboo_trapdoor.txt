@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: bamboo trapdoor, color: yellow, features: symmetrical square frame with central cross-shaped cutout surrounded by a grid of smaller cutouts, background: transparent, style: pixel art

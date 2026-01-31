@@ -1,0 +1,1 @@
+minecraft block : material : dirt, type : dirt path, color : light brown tan, features : compacted surface with subtle pixel variation and dry earthy texture, view : top, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wax, type: blue candle, color: blue, features: single blue candle without flame, style: pixel art

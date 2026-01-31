@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pitcher crop top, color: azur purple dark red, features: upper part of a bulbous azur flower with vertical purple veins drooping from a purple center with a dark red center spot and topped by an horizontal oval purple petal, background: transparent, style: pixel art

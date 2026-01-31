@@ -1,0 +1,1 @@
+minecraft block : material : organic, type : sniffer egg, status : very cracked, color : red dark cyan, features : very cracked red egg shell with dark cyan patches and thin cracks and 6 pixels transparent horizontal line at the bottom, view : bottom, style : pixel art

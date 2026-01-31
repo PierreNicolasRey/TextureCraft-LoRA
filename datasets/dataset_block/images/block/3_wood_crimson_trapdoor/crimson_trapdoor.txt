@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: trapdoor, color: magenta maroon purple, features: magenta frame with three horizontal slats and open gaps between them, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: red wool, color: red, features: soft red surface with subtle textile texture, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: jukebox, color: brown dark brown black, features: dark brown wooden frame containing a brown surface with a large vertical black slit in the center, view: top, style: pixel art

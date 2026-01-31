@@ -1,0 +1,1 @@
+minecraft block: material: wax and flame, type: green candle lit, color: green and orange, features: single green candle with glowing flame and subtle smoke effect, style: pixel art

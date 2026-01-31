@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: red nether bricks, color: red dark red black, features: horizontal brick pattern with subtle glossy texture, style: pixel art

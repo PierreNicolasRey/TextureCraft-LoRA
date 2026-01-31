@@ -1,0 +1,1 @@
+minecraft block: material: mycelium, type: mycelium block, color: pale grayish purple, features: pixelated surface with irregular mottled pattern in varying shades of pale grayish purple, view: top, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: lime wool, color: lime, features: soft lime surface with subtle textile texture, style: pixel art

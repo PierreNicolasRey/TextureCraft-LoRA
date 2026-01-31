@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: trapdoor, color: dark brown gray, features: five vertical dark brown planks with two horizontal rows of gray nails, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: twisting vines, color: teal, features: vertical twisting teal vine with darker accents, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: small dripleaf top, color: green, features: square green leaf with diagonal central vein positioned in the top-left quarter, background: transparent, view: top, style: pixel art

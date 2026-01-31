@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: purple glazed terracotta, color: purple black lavender, features: pixelated purple surface with central black square and radiating lavender beams forming a symmetrical burst pattern, symmetry: radial, style: pixel art

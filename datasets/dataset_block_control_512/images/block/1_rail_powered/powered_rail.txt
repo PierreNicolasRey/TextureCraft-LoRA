@@ -1,0 +1,1 @@
+minecraft block : material : metal, type : powered rail, color : dark red gray brown gold, features : parallel metal rails edged on the inside with gold bands and connected by wooden planks with embedded dark red segments, background : transparent, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: cyan terracotta, color: gray with slight blue tint, features: solid gray surface with subtle pixel variation, style: pixel art

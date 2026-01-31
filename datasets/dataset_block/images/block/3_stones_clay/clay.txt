@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: clay, color: light gray, features: smooth surface with subtle pixel variation and uniform tone, style: pixel art

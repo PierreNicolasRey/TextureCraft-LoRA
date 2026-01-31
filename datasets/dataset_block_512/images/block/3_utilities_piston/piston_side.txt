@@ -1,0 +1,1 @@
+minecraft block: material: wood metal stone, type: piston, color: gray beige light gray, features: rocky gray stone surface with darker edges topped by a beige wooden beam with 3 light gray metallic stripes one on each top corner and one in the middle of the beam, view: side, style: pixel art

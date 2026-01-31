@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled stone brick, color: gray, features: concentric square pattern with recessed center, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: short grass, color: light gray dark gray, features: small cluster of short blades with varied curvature, background: transparent, style: pixel art

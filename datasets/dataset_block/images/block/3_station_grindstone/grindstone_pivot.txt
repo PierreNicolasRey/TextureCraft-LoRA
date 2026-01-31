@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: grindstone, color: dark brown, features: small dark brown wooden horizontal rectangle on the top left corner, background: transparent, style: pixel art

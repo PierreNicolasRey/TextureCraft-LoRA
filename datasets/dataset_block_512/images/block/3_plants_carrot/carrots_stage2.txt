@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: carrot, color: green orange, features: three small orange carrot tops with dense green foliage, background: transparent, style: pixel art

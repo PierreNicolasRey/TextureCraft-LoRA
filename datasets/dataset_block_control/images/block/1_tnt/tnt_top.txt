@@ -1,0 +1,1 @@
+minecraft block: material: tnt, type: tnt, color: red gray-white black, features: regular red grid with gray-white squares and central black spiral fuse, view: top, style: pixel art

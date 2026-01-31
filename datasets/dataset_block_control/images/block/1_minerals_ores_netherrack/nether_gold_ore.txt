@@ -1,0 +1,1 @@
+minecraft block : material : netherrack, type : gold ore, color : dark red yellow orange, features : dark red rocky texture with mottled pixel clusters and irregular splotchy pattern and embedded gold fragments in irregular pixel clusters, style : pixel art

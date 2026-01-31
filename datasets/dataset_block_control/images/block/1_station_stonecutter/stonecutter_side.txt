@@ -1,0 +1,1 @@
+minecraft block: material: stone wood, type: stonecutter, color: gray brown, features: horizontal rectangle in the bottom 3/5 of the image consisting of 2 vertical brown wooden supports on the left and right edges framing a smooth gray stone surface with a brown horizontal wooden bar near the top edges, background: transparent, view: side, style: pixel art

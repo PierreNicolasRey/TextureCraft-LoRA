@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: bamboo block, color: green and yellow, features: grid of square bamboo tops each with a dark green circular center on a yellow-green background, view: top, style: pixel art

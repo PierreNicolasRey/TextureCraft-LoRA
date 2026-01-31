@@ -1,0 +1,1 @@
+minecraft block : material : honeycomb, type : honeycomb block, color : orange yellow, features : hexagonal honeycomb pattern with subtle shading, style : pixel art

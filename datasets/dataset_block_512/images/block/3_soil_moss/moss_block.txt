@@ -1,0 +1,1 @@
+minecraft block: material: moss, type: moss block, color: dark green and light green, features: pixelated surface with irregular distribution of green shades forming a mottled pattern, style: pixel art

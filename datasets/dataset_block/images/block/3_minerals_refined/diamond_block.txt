@@ -1,0 +1,1 @@
+minecraft block : material : diamond, type : diamond block, color : azur, features : solid polished diamond block with diagonal banding and glossy highlights, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: brewing stand, color: gray, features: stone plate inside a stone frame with three lighter circles with gray inside, style: pixel art

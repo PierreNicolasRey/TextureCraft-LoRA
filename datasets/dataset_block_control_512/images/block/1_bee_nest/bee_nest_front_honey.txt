@@ -1,0 +1,1 @@
+minecraft block: material: wood and honey, type: bee nest front honey, color: honey yellow light brown dark brown, features: horizontal planks with dark brown hexagonal openings and honey dripping, style: pixel art

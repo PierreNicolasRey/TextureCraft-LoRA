@@ -1,0 +1,1 @@
+minecraft block : material : copper, type : copper block, color : orange-brown, features: solid copper block with diagonal banding and four circular darker rivet at the corners, style : pixel art

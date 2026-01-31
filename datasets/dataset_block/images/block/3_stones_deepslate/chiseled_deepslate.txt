@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled deepslate, color: black dark gray, features: symmetrical carved pattern with central void and angular framing elements, style: pixel art

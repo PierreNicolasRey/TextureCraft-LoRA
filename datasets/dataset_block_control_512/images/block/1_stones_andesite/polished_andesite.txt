@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: polished andesite, color: light gray medium gray, features: smooth tiled pattern with subtle horizontal and vertical seams, style: pixel art

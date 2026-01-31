@@ -1,0 +1,1 @@
+minecraft block: material: food, type: cake side, color: chocolate brown and white, features: layered cake with white frosting and jagged bite edge, style: pixel art

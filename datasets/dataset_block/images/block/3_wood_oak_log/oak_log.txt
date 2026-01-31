@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: oak log, color: medium brown, features: vertical medium-brown wood grain with irregular streaks and subtle texture variation, style: pixel art

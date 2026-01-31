@@ -1,0 +1,1 @@
+minecraft block: material: concrete, type: red concrete, color: red, features: smooth solid surface with no pattern or texture, style: pixel art

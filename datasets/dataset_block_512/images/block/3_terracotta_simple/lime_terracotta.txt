@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: lime terracotta, color: muted lime, features: solid muted lime surface with subtle pixel variation, style: pixel art

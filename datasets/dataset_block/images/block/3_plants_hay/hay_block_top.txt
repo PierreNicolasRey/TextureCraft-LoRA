@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: hay block, color: yellow brown, features: mottled yellowish-brown surface, view: top, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: beetroots, color: bright green, features: three small sprouts with rounded and slightly jagged leaves, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: melon, color: green yellow, features: radial jagged lines emanating from a central point, view: top, style: pixel art

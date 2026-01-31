@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead horn coral block, color: light gray dark gray, features: compact cluster of shapes resembling coral branches in varied pixel shading, style: pixel art

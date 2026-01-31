@@ -1,0 +1,1 @@
+minecraft block: material: wood stone, type: lever, color: brown gray, features: small brown central wooden stick with a stone gray square on top of it, background: transparent, style: pixel art

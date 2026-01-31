@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: lightning rod, color: orange, features: thin metallic orange rod on the left edge topped by a larger square on the top left corner, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: eyeblossom, color: white dark gray, features: single plant with one white flower with two side petals and a dark gray center on a straight stem with two leaves, background: transparent, style: pixel art

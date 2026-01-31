@@ -1,0 +1,1 @@
+minecraft block: material: concrete, type: lime concrete, color: lime green, features: lime green smooth solid surface with no pattern or texture, style: pixel art

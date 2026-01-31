@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: trapdoor, color: pink, features: pink frame with two horizontal planks at top and bottom joined by two vertical planks on left and right central grid with empty squares four corner bolts dark pink handle embedded in top plank, background: transparent, style: pixel art

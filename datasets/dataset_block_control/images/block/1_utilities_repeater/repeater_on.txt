@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: repeater, color: gray red, features: smooth gray stone surface with one central arrow on the left and right edges pointing toward the center and a trapeze shape carved in the center with a central glowing red vertical stripe, style: pixel art

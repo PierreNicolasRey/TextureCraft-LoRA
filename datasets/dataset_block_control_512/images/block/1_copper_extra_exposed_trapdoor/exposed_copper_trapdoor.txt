@@ -1,0 +1,1 @@
+minecraft block: material: exposed copper, type: exposed copper trapdoor, color: faded reddish-brown and pink, features: square panel with tarnished X-shaped brace and beveled edges, style: pixel art

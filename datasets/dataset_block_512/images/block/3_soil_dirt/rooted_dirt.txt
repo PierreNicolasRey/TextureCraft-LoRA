@@ -1,0 +1,1 @@
+minecraft block : material : dirt, type : rooted dirt, color : brown tan, features : mottled surface with tan root-like clusters and scattered pixel accents, style : pixel art

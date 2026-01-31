@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled polished blackstone, color: black dark gray, features: square face with two eyes and straight mouth enclosed in a dark border, style: pixel art

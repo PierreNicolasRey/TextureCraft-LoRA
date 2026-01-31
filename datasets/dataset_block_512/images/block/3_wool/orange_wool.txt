@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: orange wool, color: orange, features: soft orange surface with subtle textile texture, style: pixel art

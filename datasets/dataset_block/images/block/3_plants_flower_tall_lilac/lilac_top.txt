@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: lilac, color: green purple, features: single green stem with diagonal branches and clustered purple flowers pointing upward, background: transparent, style: pixel art

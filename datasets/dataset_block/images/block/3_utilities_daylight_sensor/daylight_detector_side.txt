@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: daylight sensor, color: dark brown, features:dark brown wooden frame containing a 3x3 grid , view: side, style: pixel art

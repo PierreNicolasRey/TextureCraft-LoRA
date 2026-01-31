@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead tube coral fan, color: light gray dark gray, features: vertical sea fan composed of short open tubes with varied pixel shading, background: transparent, style: pixel art

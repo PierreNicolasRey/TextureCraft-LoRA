@@ -1,0 +1,1 @@
+minecraft block: material: wax and flame, type: brown candle lit, color: brown and orange, features: single brown candle with glowing flame and subtle smoke effect, style: pixel art

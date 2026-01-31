@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : light blue stained pane, color : light blue, features : centered 2 px light blue stained glass pane, opacity : transparent, background : transparent, style : pixel art

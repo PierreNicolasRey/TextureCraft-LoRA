@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: potatoes, color: green light brown, features: green vertical sprouts growing from a bottom center light brown spot, background: transparent, style: pixel art

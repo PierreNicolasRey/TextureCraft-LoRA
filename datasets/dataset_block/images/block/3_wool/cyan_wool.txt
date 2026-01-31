@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: cyan wool, color: cyan, features: soft cyan surface with subtle textile texture, style: pixel art

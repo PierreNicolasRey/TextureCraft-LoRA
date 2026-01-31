@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: firefly bush, color: dark green ochre, features: tall green vegetation with ochre tips, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: melon stem, color: gray light gray, features: curved gray stem with two offshoots and slender base, background: transparent, style: pixel art

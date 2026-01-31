@@ -1,0 +1,1 @@
+minecraft block : material : copper, type : weathered copper, color : teal brown green, features : weathered copper block with sparse clean brown copper spots and four circular darker rivet at the corners, style : pixel art

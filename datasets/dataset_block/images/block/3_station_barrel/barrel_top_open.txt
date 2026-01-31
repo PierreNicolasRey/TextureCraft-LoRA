@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: barrel open, color: brown dark brown, features: wooden surface of a dark brown circle inside a lighter square frame inside a square frame, view: top, style: pixel art

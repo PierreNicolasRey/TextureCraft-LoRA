@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: wither rose, color: black dark gray dark green, features: single dark gray flower on straight dark green stem with two drooping leaves, background: transparent, style: pixel art

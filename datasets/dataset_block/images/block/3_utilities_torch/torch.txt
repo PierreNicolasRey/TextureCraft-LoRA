@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: torch, color: brown yellow orange, features: central brown wooden stick topped by a glowing yellow and orange square, background: transparent, style: pixel art

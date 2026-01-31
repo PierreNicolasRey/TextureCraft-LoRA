@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: dripstone block, color: brown tan beige, features: irregular pixelated pattern with layered earthy tones and jagged inclusions, style: pixel art

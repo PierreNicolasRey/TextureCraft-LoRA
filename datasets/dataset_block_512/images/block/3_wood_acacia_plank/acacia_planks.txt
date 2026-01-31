@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: acacia planks, color: orange, features: horizontal plank pattern with subtle grain lines and seam divisions, style: pixel art

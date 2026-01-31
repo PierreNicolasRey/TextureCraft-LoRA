@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: composter, color: brown, features: square brown wooden frame with an empty square in the center, view: top, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: cactus flower, color: pink purple green, features: symmetrical flower with layered petals and a short green stem, background: transparent, style: pixel art

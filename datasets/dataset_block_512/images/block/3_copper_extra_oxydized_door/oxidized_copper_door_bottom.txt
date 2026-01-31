@@ -1,0 +1,1 @@
+minecraft block: material: oxidized copper, type: oxidized copper door bottom, color: greenish-blue and teal, features: lower half of a copper door with oxidized X-shaped brace and corner rivets, style: pixel art

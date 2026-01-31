@@ -1,0 +1,1 @@
+minecraft block: material: cobweb, type: cobweb, color: white, features: white cobweb consisting of an X-shape and a cross joining in the center with spiraling string progressing toward the center, background: transparent, style: pixel art

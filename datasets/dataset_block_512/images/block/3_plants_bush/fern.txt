@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: fern, color: gray, features: symmetrical structure with layered dentate fronds branching from a central stem, background: transparent, style: pixel art

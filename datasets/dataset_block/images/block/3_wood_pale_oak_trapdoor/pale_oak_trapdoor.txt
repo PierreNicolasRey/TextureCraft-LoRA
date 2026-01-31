@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: trapdoor, color: white dark gray, features: white frame with three vertical planks and centered dark gray arc-shaped handle at the bottom, style: pixel art

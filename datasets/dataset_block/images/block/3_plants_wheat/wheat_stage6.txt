@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: wheat, color: dark yellow beige, features: multiple dark yellow stems with scattered beige and greenish accents, background: transparent, style: pixel art

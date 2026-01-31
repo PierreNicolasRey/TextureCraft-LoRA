@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: bee nest bottom, color: brown tan beige, features: concentric squares with subtle wood patterns and arrow markings, style: pixel art

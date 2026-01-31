@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled sandstone, color: beige, features: symmetrical carved face with square eyes T-shaped nose and bracket-shaped mouth above a rectangular panel with stylized brace-like glyphs, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block : material : netherrack, type : quartz ore, color : dark red white, features : dark red rocky texture with mottled pixel clusters and irregular splotchy pattern and embedded quartz fragments in linear white streaks, style : pixel art

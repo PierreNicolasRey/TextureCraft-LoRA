@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: brown mushroom, color: reddish brown, features: mottled surface with scattered lighter and darker pixels, style: pixel art

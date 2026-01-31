@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: tall grass, color: light gray dark gray, features: tall narrow blades with jagged edges forming the upper part of a grass cluster, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: cave vines, color: green brown orange yellow, features: hanging green foliage with thin brown vine branches with visible tips and two glowing orange berries, background: transparent, style: pixel art

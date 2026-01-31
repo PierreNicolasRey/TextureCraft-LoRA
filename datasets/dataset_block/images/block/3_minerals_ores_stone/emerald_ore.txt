@@ -1,0 +1,1 @@
+minecraft block : material : stone, type : emerald ore, color : light gray green, features : light gray stone texture with fine-grained pixel clusters and soft irregular shading and embedded green emerald fragments, style : pixel art

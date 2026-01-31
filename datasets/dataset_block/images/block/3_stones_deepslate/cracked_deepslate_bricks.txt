@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: cracked deepslate bricks, color: black dark gray, features: large rectangular bricks with visible cracks and uneven surface texture and dark mortar lines, style: pixel art

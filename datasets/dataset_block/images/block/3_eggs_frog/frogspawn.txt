@@ -1,0 +1,1 @@
+minecraft block : material : organic, type : frogspawn, color : brown dark brown, features : nine circular spawn cells with dark centers arranged in a loose grid, view : top, style : pixel art

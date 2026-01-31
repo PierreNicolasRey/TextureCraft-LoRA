@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: torchflower crop, color: dark green mauve yellow, features: dark green leaves with mauve tips topped by a budding yellow flower, background: transparent, style: pixel art

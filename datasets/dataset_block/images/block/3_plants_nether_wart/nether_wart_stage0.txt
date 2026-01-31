@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: nether wart, color: dark red, features: three dark red small stems of varied heigth two of them with lighter bulb on top, background: transparent, style: pixel art

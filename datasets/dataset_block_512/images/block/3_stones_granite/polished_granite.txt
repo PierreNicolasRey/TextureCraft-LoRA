@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: polished granite, color: red brown beige gray, features: smooth mottled surface with clustered pixel shading and subtle mineral texture, style: pixel art

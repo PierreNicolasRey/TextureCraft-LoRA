@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead tube coral, color: light gray dark gray, features: cluster of vertical tubes with open tops and varied pixel shading, background: transparent, style: pixel art

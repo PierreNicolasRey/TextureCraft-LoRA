@@ -1,0 +1,1 @@
+minecraft block: material: concrete powder, type: purple concrete powder, color: purple, features: purple grainy surface with speckled texture, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: warped door, color: teal dark teal, features: teal frame with four vertical planks and wavy dark teal vines, style: pixel art

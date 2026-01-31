@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: purple wool, color: purple, features: soft purple surface with subtle textile texture, style: pixel art

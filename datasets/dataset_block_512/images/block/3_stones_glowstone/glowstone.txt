@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: glowstone, color: brown yellow gold beige, features: irregular glowing clusters with pixelated mosaic texture and scattered luminous patches, style: pixel art

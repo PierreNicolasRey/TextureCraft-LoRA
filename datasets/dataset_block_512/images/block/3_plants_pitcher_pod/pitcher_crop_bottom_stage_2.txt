@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pitcher crop bottom, color: green light green dark green purple, features: green stem with three light green vertical leaves and dark green vein at the base and oval light green flower opening at the top with a purple inside, background: transparent, style: pixel art

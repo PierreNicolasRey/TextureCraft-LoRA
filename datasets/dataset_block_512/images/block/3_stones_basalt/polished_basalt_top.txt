@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: polished basalt, color: gray dark gray, features: concentric square pattern with alternating light and dark gray segments, view: top, style: pixel art

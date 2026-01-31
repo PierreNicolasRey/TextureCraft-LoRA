@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: mangrove roots, color: brown, features: irregular brown root cross-sections with uneven spacing and gaps between them, background: transparent, view: top, style: pixel art

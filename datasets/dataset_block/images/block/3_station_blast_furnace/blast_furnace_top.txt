@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: blast furnace, color: gray dark gray black, features: square gray frame with a dark gray inside, view: top, style: pixel art

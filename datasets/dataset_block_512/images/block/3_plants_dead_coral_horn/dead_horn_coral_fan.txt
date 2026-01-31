@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead horn coral fan, color: light gray dark gray, features: vertical sea fan with irregular branches and gradient from dark base to light tips, background: transparent, style: pixel art

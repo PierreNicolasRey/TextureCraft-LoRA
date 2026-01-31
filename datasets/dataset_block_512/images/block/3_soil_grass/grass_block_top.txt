@@ -1,0 +1,1 @@
+minecraft block: material: grass, type: grass block, color: grayscale, features: pixelated surface with irregular grayscale patterns and subtle noise distribution, view: top, style: pixel art

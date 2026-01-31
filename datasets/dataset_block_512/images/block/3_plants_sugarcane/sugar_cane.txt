@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: sugar cane, color: light green lime white, features: vertical light green sugar canes with darker nodes topped by white spots and very small lime leaves, style: pixel art

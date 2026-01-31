@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: pink glazed terracotta, color: pink red gray, features: pixelated pink surface with red floral-like pattern framed by gray geometric shapes, symmetry: quadrant, style: pixel art

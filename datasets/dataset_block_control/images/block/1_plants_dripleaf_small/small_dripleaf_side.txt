@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: small dripleaf side, color: green, features: four small square green leaves tightly grouped in the top-left corner, background: transparent, view: side, style: pixel art

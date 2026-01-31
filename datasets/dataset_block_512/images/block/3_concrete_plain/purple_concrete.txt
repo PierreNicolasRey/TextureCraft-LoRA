@@ -1,0 +1,1 @@
+minecraft block: material: concrete, type: purple concrete, color: purple, features: purple smooth solid surface with no pattern or texture, style: pixel art

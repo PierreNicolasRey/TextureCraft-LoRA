@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: nether wart, color: crimson dark red, features: crimson texture with dark red wavy vertical stripes and scattered lighter dots, style: pixel art

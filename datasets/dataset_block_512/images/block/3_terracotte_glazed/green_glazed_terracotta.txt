@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: green glazed terracotta, color: green white dark green, features: pixelated green surface with white angular shapes forming a symmetrical layered pattern with dark green accents, symmetry: quadrant, style: pixel art

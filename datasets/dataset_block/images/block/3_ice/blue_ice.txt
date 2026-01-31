@@ -1,0 +1,1 @@
+minecraft block : material : ice, type : blue ice, color : deep blue with bright reflections, features : irregular pixel clusters with subtle shading and light reflections, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: leaves, type: cherry leaves, color: pink magenta forest green dark green, features: a regular pattern of large pink flowers with magenta centers covering a dense checkerboard background of green leaf clusters, background: transparent, style: pixel art

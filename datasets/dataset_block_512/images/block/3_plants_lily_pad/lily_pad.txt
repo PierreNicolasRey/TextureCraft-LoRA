@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: lily pad, color: gray, features: circular gray pad with scalloped edge with central notch and radial vein pattern, background: transparent, style: pixel art

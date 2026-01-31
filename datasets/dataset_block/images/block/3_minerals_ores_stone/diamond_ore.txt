@@ -1,0 +1,1 @@
+minecraft block : material : stone, type : diamond ore, color : light gray cyan, features : light gray stone texture with fine-grained pixel clusters and soft irregular shading and embedded cyan diamond fragments, style : pixel art

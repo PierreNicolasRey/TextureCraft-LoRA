@@ -1,0 +1,1 @@
+minecraft block : material : wood, type : creaking heart, color : pale brown dark brown, features : concentric tree rings at the heart of a pale oak bark, view : top, style : pixel art

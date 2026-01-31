@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: sapling, color: green brown, features: pixelated green leafy top with brown stem and hanging root tip, background: transparent, style: pixel art

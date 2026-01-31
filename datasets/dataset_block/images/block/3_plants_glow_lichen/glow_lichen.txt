@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: glow lichen, color: green yellow gray, features: irregular branching pattern with muted green and gray segments and scattered yellow-green glowing spots, background: transparent, style: pixel art

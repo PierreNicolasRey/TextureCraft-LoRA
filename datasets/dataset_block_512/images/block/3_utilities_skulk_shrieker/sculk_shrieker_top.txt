@@ -1,0 +1,1 @@
+minecraft block: material: organic, type: skulk shrieker, color: pale green, features: pale green triangle in each corner, background: transparent, view: top, style: pixel art

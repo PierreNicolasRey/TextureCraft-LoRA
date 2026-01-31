@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: cracked polished blackstone bricks, color: black dark gray, features: large rectangular brick pattern with visible cracks, style: pixel art

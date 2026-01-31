@@ -1,0 +1,1 @@
+minecraft block: material: wood metal, type: smithing table, color: dark red dark blue, features: dark red surface with a dotted square outline and 4 dark blue bolt on each corner, view: bottom, style: pixel art

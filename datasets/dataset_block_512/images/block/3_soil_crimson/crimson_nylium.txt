@@ -1,0 +1,1 @@
+minecraft block : material : nylium, type : crimson nylium, color : crimson red, features : mottled surface with irregular dark patches and subtle texture variation, view : top, style : pixel art

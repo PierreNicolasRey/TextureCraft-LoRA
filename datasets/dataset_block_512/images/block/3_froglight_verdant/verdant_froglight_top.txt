@@ -1,0 +1,1 @@
+minecraft block : material : crystal, type : froglight, color : verdant green white, features : radial burst pattern with glowing center, view : top, symmetry : radial, style : pixel art

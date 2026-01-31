@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead bubble coral fan, color: light gray dark gray, features: cluster of elongated rounded tubular shapes with lighter tops and darker bases, background: transparent, style: pixel art

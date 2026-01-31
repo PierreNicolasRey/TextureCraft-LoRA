@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: pointed dripstone, color: brown tan beige, features: small inverted pointed conical tip with jagged pixel edges and earthy texture, background: transparent, style: pixel art

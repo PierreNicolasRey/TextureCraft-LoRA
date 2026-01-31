@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: short dry grass, color: light brown dark brown, features: compact tuft of short dry blades with sparse foliage, background: transparent, style: pixel art

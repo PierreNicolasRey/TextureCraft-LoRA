@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled tuff brick, color: dark greenish gray, features: raised central rectangular brick with horizontal notched lines above and below, style: pixel art

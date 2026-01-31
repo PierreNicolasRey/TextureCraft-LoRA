@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: iron door, color: light gray dark gray, features: metallic light gray frame enclosing a grid of eight square recessed panels arranged vertically with metallic beams and small dark gray hinge at the bottom left edge, style: pixel art

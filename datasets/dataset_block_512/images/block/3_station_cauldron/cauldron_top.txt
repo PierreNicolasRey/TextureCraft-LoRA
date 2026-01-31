@@ -1,0 +1,1 @@
+minecraft block: material: iron, type: cauldron, color: dark gray, features: alternating concentric lighter and darker dark gray squares starting from the edges with an empty square center, background: transparent, view: top, style: pixel art

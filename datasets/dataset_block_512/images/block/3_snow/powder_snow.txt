@@ -1,0 +1,1 @@
+minecraft block: material: snow, type: powder snow, color: white, features: smooth white surface with subtle pixel variation, style: pixel art

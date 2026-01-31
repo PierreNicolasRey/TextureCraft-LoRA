@@ -1,0 +1,1 @@
+minecraft block: material: oxidized copper, type: oxidized copper trapdoor, color: greenish-blue and teal, features: square panel with oxidized X-shaped brace and beveled edges, style: pixel art

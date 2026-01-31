@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : magenta stained glass pane, color : magenta, features : centered 2 px magenta stained glass pane, opacity : transparent, background : transparent, style : pixel art

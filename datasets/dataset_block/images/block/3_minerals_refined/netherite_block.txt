@@ -1,0 +1,1 @@
+minecraft block : material : metal, type : netherite block, color : dark gray, features : solid metallic block with irregular surface pattern and subtle speckled highlights and bordered by square edge framing, style : pixel art

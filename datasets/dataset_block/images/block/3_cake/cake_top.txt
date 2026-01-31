@@ -1,0 +1,1 @@
+minecraft block: material: food, type: cake top, color: white and red, features: white frosting with red cherries or sprinkles arranged in a grid, style: pixel art

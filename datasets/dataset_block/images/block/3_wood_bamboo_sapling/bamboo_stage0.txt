@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: sapling, color: green and brown, features: pixelated bamboo shoot with spiral stem and leafy top, background: transparent, style: pixel art

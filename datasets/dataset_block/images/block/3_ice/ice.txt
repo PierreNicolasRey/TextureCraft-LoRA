@@ -1,0 +1,1 @@
+minecraft block : material : ice, type : ice, color : pale blue with soft highlights, features : icy texture with diagonal streaks and soft light patches, opacity : semi-transparent, style : pixel art

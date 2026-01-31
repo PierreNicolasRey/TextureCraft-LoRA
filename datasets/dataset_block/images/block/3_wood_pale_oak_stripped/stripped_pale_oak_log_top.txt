@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: stripped pale oak log, color: white, features: concentric square growth rings in white and pale gray tones with subtle texture variation, view: top, style: pixel art

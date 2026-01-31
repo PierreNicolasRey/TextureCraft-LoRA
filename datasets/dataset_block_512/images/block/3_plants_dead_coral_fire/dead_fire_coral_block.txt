@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead fire coral block, color: light gray dark gray, features: compact cluster of embedded branching shapes with varied shading, style: pixel art

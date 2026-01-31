@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dried kelp, color: dark green pale green, features: dark green horizontal surface with vertical pale green stripe and flattened vegetal texture, view: side, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: birch planks, color: pale beige, features: horizontal birch wood planks with subtle grain and light shading, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: nether sprouts, color: teal, features: very small straight vertical teal sprouts with lighter tips, background: transparent, style: pixel art

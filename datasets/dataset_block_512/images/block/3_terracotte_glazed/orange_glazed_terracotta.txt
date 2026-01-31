@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: orange glazed terracotta, color: orange white teal, features: pixelated orange surface with white band and teal circular shapes forming a symmetrical cellular-like pattern, symmetry: quadrant, style: pixel art

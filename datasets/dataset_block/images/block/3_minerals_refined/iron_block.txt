@@ -1,0 +1,1 @@
+minecraft block : material : iron, type : iron block, color : light gray, features : solid iron block with horizontal banding and subtle edge framing, style : pixel art

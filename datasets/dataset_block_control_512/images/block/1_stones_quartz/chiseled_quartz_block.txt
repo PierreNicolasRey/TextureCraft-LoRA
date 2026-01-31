@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled quartz block, color: ivory, features: central square tile surrounded by symmetrical arrangement of interconnected rectangular tiles with darker joints, style: pixel art

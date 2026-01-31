@@ -1,0 +1,1 @@
+minecraft block: material: metal and glass, type: brewing stand, color: dark gray orange yellow white red, features: vertical yellow central tube with orange base surrounded by two thin dark gray rods on each side topped by a horn supporting hooks with the left one holding a white glass bottle containing a red substance, background: transparent, style: pixel art

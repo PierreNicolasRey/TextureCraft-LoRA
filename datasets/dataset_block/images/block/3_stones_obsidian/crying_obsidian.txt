@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: crying obsidian, color: purple violet black, features: irregular glowing pixel clusters with jagged shapes and dark crystalline texture, style: pixel art

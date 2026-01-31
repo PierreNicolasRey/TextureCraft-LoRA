@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: note block, color: brown dark brown, features: dark brown wooden frame containing a diagonal brown grid with darker insides, style: pixel art

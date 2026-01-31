@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: bamboo planks, color: yellow-green, features: horizontal bamboo strips with visible nodes and subtle shading variations, style: pixel art

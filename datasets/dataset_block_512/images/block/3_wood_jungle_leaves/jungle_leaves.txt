@@ -1,0 +1,1 @@
+minecraft block: material: leaves, type: jungle leaves, color: dark grey light grey yellow, features: a dense irregular checkerboard pattern with visible gaps and openings composed of dark grey leaf clusters and two distinct small yellow fruit motifs, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: mangrove door, color: red brown, features: bottom half of a red-brown frame with rectangular panel containing inner rectangular section carved with diamond-shaped motif and gray hinges on the left edge, style: pixel art

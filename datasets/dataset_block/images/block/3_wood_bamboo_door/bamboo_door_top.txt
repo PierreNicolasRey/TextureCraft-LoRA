@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: bamboo door, color: yellow, features: rectangular panel with internal cutout composed of horizontal bamboo bars and vertical empty space framed by alternating bamboo and empty squares and bordered by bamboo wood, background: transparent, style: pixel art

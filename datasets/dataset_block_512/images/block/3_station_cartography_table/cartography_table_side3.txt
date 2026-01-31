@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: cartography table, color: dark brown, features: dark brown vertical wooden planks with darker joints, view: side, style: pixel art

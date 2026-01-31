@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: reinforced deepslate, color: black dark gray pale green, features: symmetrical radial pattern with central dark core and pale green outer accents, view: bottom, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wax and flame, type: magenta candle lit, color: magenta and orange, features: single magenta candle with glowing flame and subtle smoke effect, style: pixel art

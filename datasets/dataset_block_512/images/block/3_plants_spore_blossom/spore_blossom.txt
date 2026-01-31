@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: spore blossom, color: pink yellow, features: large pink petal with darker base and a yellow bottom center spot, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: lily of the valley, color: white green, features: single plant with three white bell-shaped flowers on a curved green stem with one leaf, background: transparent, style: pixel art

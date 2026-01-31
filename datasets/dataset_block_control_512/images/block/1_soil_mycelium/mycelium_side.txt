@@ -1,0 +1,1 @@
+minecraft block: material: mycelium and dirt, type: mycelium block, color: pale grayish purple and medium brown, features: mottled brown dirt surface with subtle pixel variation partially covered by a pale grayish purple layer, view: side, style: pixel art

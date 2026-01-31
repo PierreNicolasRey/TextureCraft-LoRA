@@ -1,0 +1,1 @@
+minecraft block: material: wood metal, type: piston, color: beige light gray lime, features: surface made of small horizontal beige wooden planks with light gray metallic bolts on each corners and each edge center and a large puddle of lime goo in the center, view: top, style: pixel art

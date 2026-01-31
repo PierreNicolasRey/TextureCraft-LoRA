@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: resin block, color: bright orange, features: irregular rounded clusters with bumpy surface and dense pixel shading, style: pixel art

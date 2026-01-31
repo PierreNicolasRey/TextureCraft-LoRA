@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: oak planks, color: golden brown, features: staggered horizontal wooden planks with subtle grain lines and seams in medium brown tones, style: pixel art

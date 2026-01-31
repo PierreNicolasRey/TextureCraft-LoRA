@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: warped wart, color: teal dark teal and lime, features: teal texture with dark teal wavy vertical stripes and scattered lime dots, style: pixel art

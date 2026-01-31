@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: respawn anchor, color: black dark purple, features: black stone surface with glowing dark purple veins, view: bottom, style: pixel art

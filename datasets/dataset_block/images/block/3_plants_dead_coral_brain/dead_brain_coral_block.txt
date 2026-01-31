@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: dead brain coral block, color: light gray dark gray, features: interlocking curved ridges forming a continuous surface pattern, style: pixel art

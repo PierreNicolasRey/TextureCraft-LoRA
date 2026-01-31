@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: birch log, color: white beige black, features: cross-section of a birch trunk with outer white bark speckled with black and alternating beige growth rings, view: top, style: pixel art

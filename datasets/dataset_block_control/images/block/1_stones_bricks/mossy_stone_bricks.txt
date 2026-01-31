@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: mossy stone brick, color: green and gray, features: large gray bricks with moss patches and dark joints, style: pixel art

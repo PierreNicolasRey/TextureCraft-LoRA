@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: lime glazed terracotta, color: lime green orange dark green, features: pixelated lime green surface with winding orange path over layered green terrain, symmetry: mirrored, style: pixel art

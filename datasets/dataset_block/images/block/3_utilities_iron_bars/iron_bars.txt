@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: iron bars, color: gray, features: 3 metallic vertical gray iron bars with small horizontal joints, background: transparent, style: pixel art

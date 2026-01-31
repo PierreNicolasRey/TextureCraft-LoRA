@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: torchflower, color: dark green yellow orange red purple, features: long dark green leaves with purple tips topped by a yellow flower with orange accents and a red base, background: transparent, style: pixel art

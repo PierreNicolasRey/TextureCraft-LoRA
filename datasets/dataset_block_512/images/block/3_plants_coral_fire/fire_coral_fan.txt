@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: fire coral fan, color: red, features: vertical red sea fan with irregular branches and gradient from dark base to bright tips, background: transparent, style: pixel art

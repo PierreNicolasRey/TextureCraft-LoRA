@@ -1,0 +1,1 @@
+minecraft block : material : copper, type : raw copper, color : reddish brown teal, features : block composed entirely of raw copper with irregular clustered surface patterns and subtle metallic shading, style : pixel art

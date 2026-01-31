@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: magenta terracotta, color: lilac, features: solid lilac surface with subtle pixel variation, style: pixel art

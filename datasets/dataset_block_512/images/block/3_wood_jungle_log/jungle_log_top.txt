@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: jungle log, color: light brown dark brown, features: concentric square growth rings in light brown surrounded by textured bark border, view: top, style: pixel art

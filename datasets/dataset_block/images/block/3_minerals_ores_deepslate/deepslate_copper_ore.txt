@@ -1,0 +1,1 @@
+minecraft block : material : deepslate, type : copper ore, color : dark gray orange teal, features : dark gray stone texture with jagged pixel clusters and irregular horizontal striations and embedded copper fragments in orange and teal hues, style : pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: trapdoor, color: dark brown, features: dark brown frame with four recessed rectangular panels, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pale hanging moss, color: pale greenish gray, features: drooping intricated twisting vines, background: transparent, style: pixel art

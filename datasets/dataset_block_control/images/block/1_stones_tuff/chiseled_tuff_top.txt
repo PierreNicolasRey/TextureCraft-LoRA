@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled tuff, color: dark greenish gray, features: square spiral motif made of thick angular line, view: top, style: pixel art

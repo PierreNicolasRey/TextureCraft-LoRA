@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: bricks, color: red light gray, features: staggered rectangular brick pattern with rounded edges and uniform light gray mortar lines, style: pixel art

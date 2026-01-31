@@ -1,0 +1,1 @@
+minecraft block: material: leaves, type: spruce leaves, color: dark grey light grey black, features: a regular sparse diamond and checkerboard pattern composed of small dark grey pixels with light grey highlights forming distinct star-like leaf clusters and wide uniform gaps, background: transparent, style: pixel art

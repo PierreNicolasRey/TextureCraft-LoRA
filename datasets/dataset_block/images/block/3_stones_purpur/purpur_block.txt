@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: purpur block, color: lavender purple, features: 2x2 tile grid with rectangular segments and subtle pixel shading, style: pixel art

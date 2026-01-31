@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: loom, color: light brown reddish brown, features: light brown square frame with a central horizontal separation between 2 horizontal reddish brown rectangles, view: side, style: pixel art

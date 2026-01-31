@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: leaf litter, color: light gray, features: scattered light gray patches with subtle color variations , background: transparent, style: pixel art

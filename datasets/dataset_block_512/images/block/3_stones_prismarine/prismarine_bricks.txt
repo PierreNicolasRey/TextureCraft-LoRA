@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: prismarine bricks, color: turquoise teal, features: centered upward-pointing solid arrow with base equal to shaft width and vertical line extending from tip, style: pixel art

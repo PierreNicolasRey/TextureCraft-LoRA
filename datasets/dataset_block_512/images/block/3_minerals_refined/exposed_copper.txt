@@ -1,0 +1,1 @@
+minecraft block : material : copper, type : exposed copper, color : green brown pink, features : exposed copper block with diagonal banding and four circular darker rivet at the corners partially oxidized surface with mottled color variation, style : pixel art

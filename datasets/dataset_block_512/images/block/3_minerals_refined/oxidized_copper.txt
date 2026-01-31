@@ -1,0 +1,1 @@
+minecraft block : material : copper, type : oxidized copper, color : turquoise, features : solid oxidized copper block with symmetrical geometric banding and four circular rivet at the corners, style : pixel art

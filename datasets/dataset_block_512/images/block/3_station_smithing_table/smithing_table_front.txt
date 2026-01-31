@@ -1,0 +1,1 @@
+minecraft block: material: wood metal, type: smithing table, color: dark red dark gray, features: dark gray metal table with a feet a the left and right edges separated by 3 horizontal wooden dark red planks holding some chisels on the left and tongs on the right, view: front, style: pixel art

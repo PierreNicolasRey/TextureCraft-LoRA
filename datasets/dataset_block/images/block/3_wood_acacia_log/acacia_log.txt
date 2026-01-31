@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: acacia log, color: gray, features: vertical bark pattern with irregular striations, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: iron, type: cauldron, color: dark gray, features: four dark gray L-shape on each corner, background: transparent, view: bottom, style: pixel art

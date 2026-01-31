@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: grindstone, color: gray, features: large stone square on the top left corner with lighter edges and a spiraling pattern on the inside, background: transparent, view: side, style: pixel art

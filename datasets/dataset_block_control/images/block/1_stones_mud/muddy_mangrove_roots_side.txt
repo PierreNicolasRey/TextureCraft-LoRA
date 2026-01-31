@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: muddy mangrove roots, color: dark brown black gray blue, features: vertical twisting roots on damp texture and irregular pixel shading, view: side, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: oxidized copper, type: oxidized chiseled copper, color: greenish-blue and dark green, features: symmetrical decorative pattern with oxidized copper engravings and central square motif, style: pixel art

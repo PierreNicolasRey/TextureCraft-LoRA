@@ -1,0 +1,1 @@
+minecraft block: material: weathered copper, type: weathered chiseled copper, color: green and brown, features: symmetrical decorative pattern with weathered copper engravings and central square motif, style: pixel art

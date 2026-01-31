@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: gray wool, color: dark gray, features: soft dark gray surface with subtle textile texture, style: pixel art

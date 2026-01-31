@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: dispenser, color: gray black, features: gray stone rocky surface with a black circular openning in the center, style: pixel art

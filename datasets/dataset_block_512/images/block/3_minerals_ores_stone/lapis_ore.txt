@@ -1,0 +1,1 @@
+minecraft block : material : stone, type : lapis ore, color : light gray blue, features : light gray stone texture with fine-grained pixel clusters and soft irregular shading and embedded blue lapis fragments, style : pixel art

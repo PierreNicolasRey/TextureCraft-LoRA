@@ -1,0 +1,1 @@
+minecraft block: material: wood stone, type: crafter, color: gray light brown dark brown, features: gray stone frame containing a light brown panel at the top with two darker slits and a bottom dark brown oppened rectangle panel with rounded edges, view: north, style: pixel art

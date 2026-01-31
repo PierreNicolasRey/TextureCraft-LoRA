@@ -1,0 +1,1 @@
+minecraft block: material: crystal, type: redstone lamp, color: brown light brown dark brown, features: brown frame containing a light brown vertical losange with a light brown oval along each edges with dark brown separations, style: pixel art

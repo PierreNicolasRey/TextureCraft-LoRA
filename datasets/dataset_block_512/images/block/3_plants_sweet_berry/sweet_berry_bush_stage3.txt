@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: sweet berry bush, color: dark green red, features: large rounded dense dark green bush with a lot of red berries, background: transparent, style: pixel art

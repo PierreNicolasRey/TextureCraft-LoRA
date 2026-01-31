@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: big dripleaf, color: green, features: tip of a semi-circular green leaf with jagged edges and faint central vein, background: transparent, view: top, style: pixel art

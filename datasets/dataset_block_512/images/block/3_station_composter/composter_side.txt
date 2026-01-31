@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: composter, color: brown, features: 4 horizontal wooden brown planks joined at the left and right edges and with openwork dividers and organic matter visible between the gaps, view: side, style: pixel art

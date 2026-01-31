@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: spore blossom, color: green, features: large green square leave with highly jagged edges with darker spots, style: pixel art

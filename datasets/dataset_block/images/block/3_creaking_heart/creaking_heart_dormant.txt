@@ -1,0 +1,1 @@
+minecraft block : material : wood, type : creaking heart dormant, color : pale brown dark orange, features : large dark crack pattern filled with resin at the heart of a paler bark, style : pixel art

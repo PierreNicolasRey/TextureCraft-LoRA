@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: smithing table, color: dark gray, features: damaged dark gray metal surface with some holes, view: top, style: pixel art

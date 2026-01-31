@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: cactus, color: green light green beige, features: mottled green surface with scattered beige spines and a central beige pixel protrusion, background: transparent, view: top, style: pixel art

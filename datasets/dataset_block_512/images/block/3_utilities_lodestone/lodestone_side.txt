@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: lodestone, color: gray, features: gray stone surface with beveled edges with a centered cross carving with a darker circle in the center, view: side, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: chorus plant, color: purple, features: abstract tessellated pattern with irregular dark and light purple shapes, style: pixel art

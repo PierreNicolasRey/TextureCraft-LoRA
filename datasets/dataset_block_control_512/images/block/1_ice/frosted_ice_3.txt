@@ -1,0 +1,1 @@
+minecraft block : material : ice, type : frosted ice, color : light and medium blue, features : frosted ice texture with central crack formation and dense pixel fragmentation, opacity : semi-transparent, style : pixel art

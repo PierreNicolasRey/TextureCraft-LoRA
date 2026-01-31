@@ -1,0 +1,1 @@
+minecraft block: material: leaves, type: birch leaves, color: dark grey light grey, features: a regular sparse checkerboard pattern with wide gaps and openings composed of dark grey pixels with light grey highlights forming small leaf clusters, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: weathered copper, type: weathered cut copper, color: green brown, features: segmented surface with diagonal engraved lines forming a grid of four panels showing advanced patina, style: pixel art

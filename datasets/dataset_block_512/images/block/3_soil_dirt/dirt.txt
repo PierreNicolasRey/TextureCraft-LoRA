@@ -1,0 +1,1 @@
+minecraft block : material : dirt, type : dirt, color : medium brown, features : mottled surface with subtle pixel variation and earthy texture, style : pixel art

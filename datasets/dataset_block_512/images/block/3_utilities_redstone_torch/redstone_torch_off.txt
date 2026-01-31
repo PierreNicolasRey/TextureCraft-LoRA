@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: redstone torch, color: brown dark red, features: brown stick with a dark red tip, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: observer, color: gray dark gray, features: rocky gray stone surface with dark gray edges and a central large triangle pointing up carved in, view: top, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: crimson stem, color: dark reddish-purple, features: dark reddish-purple bark border with concentric square growth rings inside, view: top, style: pixel art

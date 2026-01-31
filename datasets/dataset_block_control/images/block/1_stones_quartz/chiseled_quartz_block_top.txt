@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: chiseled quartz block, color: ivory, features: symmetrical grid of square spirals forming a four-quadrant pattern with darker joints, view: top, style: pixel art

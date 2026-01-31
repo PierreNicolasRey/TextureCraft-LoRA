@@ -1,0 +1,1 @@
+minecraft block : material : deepslate, type : diamond ore, color : dark gray cyan, features : dark gray stone texture with jagged pixel clusters and irregular horizontal striations and embedded cyan diamond fragments, style : pixel art

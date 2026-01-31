@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : orange stained glass, color : orange, features : solid orange stained glass block with darker edge, opacity : transparent, style : pixel art

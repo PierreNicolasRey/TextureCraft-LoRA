@@ -1,0 +1,1 @@
+minecraft block: material: wood glass, type: daylight sensor, color: dark brown light blue, features: dark brown wooden frame containing a 3x3 grid and each squares of the grid contains a light blue glass circle, view: top, style: pixel art

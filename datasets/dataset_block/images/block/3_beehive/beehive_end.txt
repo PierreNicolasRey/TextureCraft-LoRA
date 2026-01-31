@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: beehive end, color: light brown tan, features: horizontal wooden slats with visible grain texture, style: pixel art

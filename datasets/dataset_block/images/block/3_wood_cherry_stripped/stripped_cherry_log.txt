@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: stripped cherry log, color: pink, features: horizontal cherry wood grain in various shades of pink, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block : material : deepslate, type : emerald ore, color : dark gray green, features : dark gray stone texture with jagged pixel clusters and irregular horizontal striations and embedded green emerald fragments, style : pixel art

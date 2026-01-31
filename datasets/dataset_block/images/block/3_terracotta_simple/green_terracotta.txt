@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: green terracotta, color: olive green, features: solid olive green surface with subtle pixel variation, style: pixel art

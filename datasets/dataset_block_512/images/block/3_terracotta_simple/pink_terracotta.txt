@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: pink terracotta, color: salmon pink, features: solid salmon pink surface with subtle pixel variation, style: pixel art

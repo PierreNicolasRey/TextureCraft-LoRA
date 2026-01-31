@@ -1,0 +1,1 @@
+minecraft block : material : deepslate, type : coal ore, color : dark gray black, features : dark gray stone texture with jagged pixel clusters and irregular horizontal striations and embedded black coal fragments, style : pixel art

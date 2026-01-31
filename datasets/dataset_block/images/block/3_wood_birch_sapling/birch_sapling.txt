@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: sapling, color: green and white, features: young birch plant with small drooping leaves and pale stem, background: transparent, style: pixel art

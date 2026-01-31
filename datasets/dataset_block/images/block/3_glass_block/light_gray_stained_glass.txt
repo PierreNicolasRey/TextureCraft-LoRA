@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : light gray stained glass, color : light gray, features : solid light gray stained glass block with darker edge, opacity : transparent, style : pixel art

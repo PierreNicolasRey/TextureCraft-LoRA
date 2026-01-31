@@ -1,0 +1,1 @@
+minecraft block: material: organic, type: compost, color: brown green, features: empty edges and centered square of decomposing brown organic matter with lighter and darker accents and some green patches, background: transparent, view: top, style: pixel art

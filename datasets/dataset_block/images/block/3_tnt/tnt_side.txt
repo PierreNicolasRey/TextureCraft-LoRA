@@ -1,0 +1,1 @@
+minecraft block: material: tnt, type: tnt, color: red white dark gray-blue, features: red vertical stripes with an horizontal central white band with TNT lettering, view: side, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: allium, color: purple green, features: round purple bloom with varied shading atop a straight green stem, background: transparent, style: pixel art

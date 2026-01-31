@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: beetroots, color: bright green red, features: small red tubercles with large jagged leaves growing from them, background: transparent, style: pixel art

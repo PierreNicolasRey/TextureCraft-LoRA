@@ -1,0 +1,1 @@
+minecraft block: material: crystal, type: calibrated sculk sensor, color: purple, features: centered large purple amethyst gem pointing up, background: transparent, view: side, style: pixel art

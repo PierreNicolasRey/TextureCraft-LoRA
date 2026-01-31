@@ -1,0 +1,1 @@
+minecraft block: material: concrete powder, type: orange concrete powder, color: orange, features: grainy surface with speckled texture, style: pixel art

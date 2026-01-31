@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: sapling, color: brown green, features: vertical brown stem with irregularly arranged green leaves extending outward, background: transparent, style: pixel art

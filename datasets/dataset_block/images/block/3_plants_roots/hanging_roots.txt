@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: hanging roots, color: pale pink reddish brown, features: drooping intertwined roots with pale pink roots in the foreground and reddish brown roots at the back, background: transparent, style: pixel art

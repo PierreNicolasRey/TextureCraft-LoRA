@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: observer, color: gray dark gray, features: gray top and bottom edges framing a dark gray central panel, view: side, style: pixel art

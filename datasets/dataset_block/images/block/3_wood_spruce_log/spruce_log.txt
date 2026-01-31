@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: spruce log, color: brown dark brown, features: vertical wood grain with irregular streaks in dark and light brown tones, style: pixel art

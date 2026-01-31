@@ -1,0 +1,1 @@
+minecraft block: material: dust, type: redstone dust, color: white, features: centered vertical irregular white jagged band, background: transparent, style: pixel art

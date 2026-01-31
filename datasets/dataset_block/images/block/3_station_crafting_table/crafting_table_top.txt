@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: crafting table, color: black light brown brown, features: black triangle corners with light brown inside framing an octogonal brown surface with a darker 3x3 grid in the center, view: top, style: pixel art

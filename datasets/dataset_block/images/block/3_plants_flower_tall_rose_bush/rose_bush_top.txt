@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: rose bush, color: green red, features: thin branching stems with six circular red flowers on top, background: transparent, style: pixel art

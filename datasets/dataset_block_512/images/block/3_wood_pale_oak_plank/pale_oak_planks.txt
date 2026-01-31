@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: pale oak planks, color: white, features: horizontal white planks with subtle texture variation, style: pixel art

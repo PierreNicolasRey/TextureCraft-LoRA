@@ -1,0 +1,1 @@
+minecraft block : material : deepslate, type : redstone ore, color : dark gray red, features : dark gray stone texture with jagged pixel clusters and irregular horizontal striations and embedded red redstone fragments, style : pixel art

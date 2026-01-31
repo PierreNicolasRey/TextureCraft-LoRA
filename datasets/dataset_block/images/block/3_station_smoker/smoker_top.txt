@@ -1,0 +1,1 @@
+minecraft block: material: stone wood, type: smoker, color: brown gray black, features: rocky dark gray surface with darker edges and brown L-shape wooden corners with a central black square openning with rounded edges, view: top, style: pixel art

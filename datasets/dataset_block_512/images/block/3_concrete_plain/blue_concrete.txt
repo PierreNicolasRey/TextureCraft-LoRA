@@ -1,0 +1,1 @@
+minecraft block: material: concrete, type: blue concrete, color: blue, features: blue smooth solid surface with no pattern or texture, style: pixel art

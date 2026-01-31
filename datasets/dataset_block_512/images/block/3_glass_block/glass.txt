@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : glass, color : glass, features : solid transparent glass block with light blue and white edge, opacity : transparent, style : pixel art

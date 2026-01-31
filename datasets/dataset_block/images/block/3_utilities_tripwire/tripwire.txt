@@ -1,0 +1,1 @@
+minecraft block: material: organic, type: tripwire, color: light gray gray, features: non-continuous light gray and gray horizontal lines on the top half of the image, background: transparent, style: pixel art

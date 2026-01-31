@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : red stained glass, color : red, features : solid red stained glass block with darker edge, opacity : transparent, style : pixel art

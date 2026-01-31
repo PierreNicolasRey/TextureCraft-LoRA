@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: pumpkin, color: orange, features: orange square pumpkin with darker vertical stripes and bottom, view: side, style: pixel art

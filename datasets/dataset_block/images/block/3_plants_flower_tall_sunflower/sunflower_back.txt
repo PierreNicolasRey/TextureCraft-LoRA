@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: sunflower, color: light green dark green, features: central octagone with dark green edges and light green center, background: transparent, view: back, style: pixel art

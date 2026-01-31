@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: vault, color: dark blue dark gray dark purple, features: dark gray stone square frame containing a large dark purple square hole with dark blue edges and dark gray triangle on each corner, view: top, style: pixel art

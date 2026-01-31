@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: brain coral fan, color: pink, features: branching pink structure with rounded protrusions and varying thickness, background: transparent, style: pixel art

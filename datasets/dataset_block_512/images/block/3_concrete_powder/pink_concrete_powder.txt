@@ -1,0 +1,1 @@
+minecraft block: material: concrete powder, type: pink concrete powder, color: pink, features: pink grainy surface with speckled texture, style: pixel art

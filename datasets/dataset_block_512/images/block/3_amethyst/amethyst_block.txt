@@ -1,0 +1,1 @@
+minecraft block: material: crystal, type: amethyst block, color: deep purple lavender, features: faceted surface with glowing highlights with seamless tiling, style: pixel art

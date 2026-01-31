@@ -1,0 +1,1 @@
+minecraft block: material: concrete, type: yellow concrete, color: yellow, features: yellow smooth solid surface with no pattern or texture, style: pixel art

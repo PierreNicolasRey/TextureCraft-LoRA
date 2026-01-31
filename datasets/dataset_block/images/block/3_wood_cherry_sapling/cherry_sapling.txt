@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: sapling, color: pink and dark brown, features: dark brown twisting cherry sapling with scattered cherry blossoms in various shades of pink, background: transparent, style: pixel art

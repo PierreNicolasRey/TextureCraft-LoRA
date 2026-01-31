@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: trapdoor, color: light brown, features: square light brown frame with central circular carved opening intersected by one horizontal and two vertical bars, background: transparent, style: pixel art

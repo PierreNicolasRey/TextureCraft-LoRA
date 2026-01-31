@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: acacia log, color: orange, features: central tree rings with alternating shades surrounded by a gray bark border, view: top, style: pixel art

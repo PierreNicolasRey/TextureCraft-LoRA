@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: gravel, color: gray pink purple beige, features: irregular pixel clusters with speckled texture and scattered shading variations, style: pixel art

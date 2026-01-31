@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: bell, color: golden yellow, features: horizontal rectangle forming a base topped by a vertical rectangle with a darker separation between them, background: transparent, view: side, style: pixel art

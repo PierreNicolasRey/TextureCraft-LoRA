@@ -1,0 +1,1 @@
+minecraft block : material : glass, type : purple stained glass, color : purple, features : solid purple stained glass block with darker edge, opacity : transparent, style : pixel art

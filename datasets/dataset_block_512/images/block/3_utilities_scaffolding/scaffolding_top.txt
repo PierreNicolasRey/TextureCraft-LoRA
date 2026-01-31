@@ -1,0 +1,1 @@
+minecraft block: material: bamboo, type: scaffolding, color: light beige brown, features: square light beige bamboo frame with a brown net string grid in the middle and string attached to the frame, background: transparent, view: top, style: pixel art

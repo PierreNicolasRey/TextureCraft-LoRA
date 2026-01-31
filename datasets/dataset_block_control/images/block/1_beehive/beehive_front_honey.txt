@@ -1,0 +1,1 @@
+minecraft block: material: wood and honey, type: beehive front honey, color: golden brown light brown yellow-orange, features: horizontal wooden slats with central latch and glowing honey highlights, style: pixel art

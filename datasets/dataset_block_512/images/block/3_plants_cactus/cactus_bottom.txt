@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: cactus, color: light green dark green, features: lighter green center with an inner square and circular ring surrounded by a darker green border, background: transparent, view: bottom, style: pixel art

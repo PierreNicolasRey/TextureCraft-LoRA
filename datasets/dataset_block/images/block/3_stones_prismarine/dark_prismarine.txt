@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: dark prismarine, color: dark green teal, features: tiled square pattern with darker joints and internal shading, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: copper, type: copper bulb, color: reddish-brown dark brown, features: symmetrical cross-like pattern with copper segments on matte background, style: pixel art

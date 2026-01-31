@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: deepslate tiles, color: black dark gray, features: staggered rectangular tiles with dark mortar lines and slightly irregular edges, style: pixel art

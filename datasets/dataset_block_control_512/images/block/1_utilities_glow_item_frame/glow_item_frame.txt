@@ -1,0 +1,1 @@
+minecraft block: material: wood leather, type: item frame, color: dark gray dark orange orange, features: dark gray wooden frame containing a dark orange leather surface transitionning to orange toward the center, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: iron, type: chipped anvil, color: dark gray black, features: central vertical rectangle with dark gray surface and some black cracks in the center, background: transparent, view: top, style: pixel art

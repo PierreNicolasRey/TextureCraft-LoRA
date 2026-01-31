@@ -1,0 +1,1 @@
+minecraft block: material: metal, type: trial spawner, color: dark blue blue light gray black, features: dark blue metallic frame with light gray corners containing alternating darker and lighter blue concentric squares and a central black square, view: top, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: terracotta, type: light blue terracotta, color: muted lavender, features: solid muted lavender surface with subtle pixel variation, style: pixel art

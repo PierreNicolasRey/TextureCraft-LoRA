@@ -1,0 +1,1 @@
+minecraft block: material: fabric, type: target, color: red white pale yellow, features: alternating white and red concentric square progressing toward a small central red square with sublte pale yellow line radiating from the center, view: top, style: pixel art

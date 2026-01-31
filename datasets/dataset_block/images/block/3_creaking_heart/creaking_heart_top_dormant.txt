@@ -1,0 +1,1 @@
+minecraft block : material : wood, type : creaking heart dormant, color : pale dark orange, features : resin-filled concentric tree rings at the heart of a pale oak bark, view : top, style : pixel art

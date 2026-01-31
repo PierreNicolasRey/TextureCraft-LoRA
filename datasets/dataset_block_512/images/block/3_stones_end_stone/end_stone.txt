@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: end stone, color: pale yellow beige light gray, features: irregular pixel clusters with porous texture and subtle crater-like patterns, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: concrete powder, type: lime concrete powder, color: lime green, features: lime green grainy surface with speckled texture, style: pixel art

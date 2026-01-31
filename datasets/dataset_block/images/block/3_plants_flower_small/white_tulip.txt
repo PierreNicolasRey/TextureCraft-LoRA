@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: tulip, color: white green light gray, features: single U-shaped white flower with light gray base on straight green stem with two vertical leaves, background: transparent, style: pixel art

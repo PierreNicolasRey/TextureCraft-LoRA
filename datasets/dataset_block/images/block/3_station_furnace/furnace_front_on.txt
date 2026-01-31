@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: furnace, color: gray dark gray black yellow orange, features: 2 stone horizontal rectangles on top of each other with a smooth gray one at the bottom and a rocky dark gray at the top and each one has a black central hoven opening and the bottom one has orange and yellow flames, view: front, style: pixel art

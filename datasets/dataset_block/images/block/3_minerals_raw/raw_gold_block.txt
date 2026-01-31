@@ -1,0 +1,1 @@
+minecraft block : material : gold, type : raw gold, color : golden yellow brown, features : block composed entirely of raw gold with irregular clustered surface patterns and subtle metallic shading, style : pixel art

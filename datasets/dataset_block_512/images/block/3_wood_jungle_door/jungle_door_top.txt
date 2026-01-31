@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: jungle door, color: light brown dark brown, features: two vertical carved panels with arched window in center, background: transparent, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: purpur pillar, color: lavender purple, features: central 3x4 grid of square tiles flanked by vertical rectangles with darker joints separating all elements, style: pixel art

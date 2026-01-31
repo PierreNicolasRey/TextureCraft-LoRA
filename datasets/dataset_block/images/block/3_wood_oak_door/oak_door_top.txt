@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: oak door, color: golden brown, features: four square window openings in 2x2 grid within wooden frame with small gray handle bottom right and gray hinge top left, background: transparent, style: pixel art

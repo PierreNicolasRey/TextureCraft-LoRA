@@ -1,0 +1,1 @@
+minecraft block: material: podzol and dirt, type: podzol block, color: dark brown medium brown, features: mottled medium brown dirt surface with subtle pixel variation partially covered by a dark brown organic layer, view: side, style: pixel art

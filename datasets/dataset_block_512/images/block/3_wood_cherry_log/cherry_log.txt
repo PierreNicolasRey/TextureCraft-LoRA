@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: cherry log, color: dark purple, features: horizontal cherry bark with wavy lines in varying shades of purple, style: pixel art

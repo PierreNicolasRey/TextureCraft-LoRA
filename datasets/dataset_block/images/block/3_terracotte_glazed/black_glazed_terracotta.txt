@@ -1,0 +1,1 @@
+minecraft block: material: glazed terracotta, type: black glazed terracotta, color: black crimson dark gray, features: dark gray base with marked crimson geometric pattern forming maze-like arrows and rings, symmetry: quadrant, style: pixel art

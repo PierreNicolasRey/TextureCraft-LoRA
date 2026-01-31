@@ -1,0 +1,1 @@
+minecraft block : material : egg shell, type : dragon egg, color : deep purple black, features : scattered irregular egg shapes outlined in lighter purple on a pitch-black background, style : pixel art

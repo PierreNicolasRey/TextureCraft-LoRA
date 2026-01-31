@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: small dripleaf stem bottom, color: green, features: bottom part of green stems with branching structure and small leaves, background: transparent, style: pixel art

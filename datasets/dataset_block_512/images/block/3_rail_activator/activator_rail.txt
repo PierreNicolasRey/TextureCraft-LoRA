@@ -1,0 +1,1 @@
+minecraft block : material : metal, type : activator rail, color : dark red gray brown, features : parallel metal rails connected by wooden planks with embedded dark red segments, background : transparent, style : pixel art

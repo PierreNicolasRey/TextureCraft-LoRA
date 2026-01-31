@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: stonecutter, color: gray, features: smooth gray stone surface with darker edges and sublte horizontal shading variations, view: bottom, style: pixel art

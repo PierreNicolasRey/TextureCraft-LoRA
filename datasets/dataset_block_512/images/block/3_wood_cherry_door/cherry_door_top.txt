@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: cherry door, color: pink, features: three vertical pink wooden planks forming a frame around a central rectangular lattice panel which contains staggered pattern of hollow shapes: line with two crosses line with centered square line with two crosses line with centered square line with two crosses, background: transparent, style: pixel art

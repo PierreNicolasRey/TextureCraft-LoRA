@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: carved pumpkin, color: orange dark brown, features: orange square pumpkin with darker vertical striped and bottom with a carved face with two dark brown eyes and a jagged dark brown mouth, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: plants, type: horn coral block, color: yellow, features: compact cluster of shapes resembling coral branches in varied yellow pixel shading, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: stripped mangrove log, color: dark red brown, features: horizontal dark red-brown wood grain with subtle texture variation and no bark, style: pixel art

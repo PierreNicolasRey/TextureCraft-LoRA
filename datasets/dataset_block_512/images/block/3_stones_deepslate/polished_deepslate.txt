@@ -1,0 +1,1 @@
+minecraft block: material: stone, type: polished deepslate, color: black dark gray, features: smooth stone surface with subtle irregular vertical patches and low contrast pixel variation, style: pixel art

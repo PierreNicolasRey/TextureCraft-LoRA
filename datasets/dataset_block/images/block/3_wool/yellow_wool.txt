@@ -1,0 +1,1 @@
+minecraft block: material: wool, type: yellow wool, color: yellow, features: soft yellow surface with subtle textile texture, style: pixel art

@@ -1,0 +1,1 @@
+minecraft block: material: wood, type: pale oak door, color: white dark gray, features: white frame enclosing rectangular panel of three vertical planks with circular dark gray handle top right and horizontal dark gray metal brace, style: pixel art
