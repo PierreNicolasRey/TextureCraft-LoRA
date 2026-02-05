@@ -6,6 +6,10 @@
 ## Description
 TextureCraft-LoRA est une API Python conçue pour générer des textures de type "Minecraft" en utilisant des modèles LoRA entraînés spécifiquement. Cette application sert de moteur de génération pour un back-end Java.
 
+### Liens du projet :
+Front : https://github.com/PierreNicolasRey/TextureCraft-Front
+
+Back : https://github.com/PierreNicolasRey/TextureCraft-Back
 ---
 
 ## Architecture du projet
