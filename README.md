@@ -76,3 +76,10 @@ Il est donc nécessaire d'atteindre ce stade avant de ne pouvoir demander à l'a
 De plus, les modèles issus de mes entrainements ne sont entrainés que sur les blocs de Minecraft et pas les items. Un modèle existe déjà pour ceux-ci. Une fois mon propre modèle affermit, je pourrais réfléchir à une intégration de ce second modèle dans l'application avec l'accord de son auteur.
 
 Enfin, j'aimerais proposer différents modèles de génération d'image de bloc. Celui entrainé actuellement est un modèle "Vanilla", entrainé uniquement sur les images de blocs du jeu de base. Des sur-couches LoRA sur ce modèle Vanilla sont à envisager pour différents mods et ainsi permettre la croissance d'add-ons qui aurait pu se trouver limitée par le manque de textures à appliquer. Je pense ainsi au mod Create à l'esthétique particulière et à ses nombreux add-ons qui pourrait bénéficier d'un modèle spécialement conçu pour cette esthétique.
+
+---
+
+## Copyright
+
+© 2026 Pierre-Nicolas Rey. Tous droits réservés. Le code et les modèles présents dans ce dépôt sont mis à disposition pour consultation technique uniquement. 
+Toute reproduction ou utilisation sans autorisation préalable est interdite.
