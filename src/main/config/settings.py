@@ -19,9 +19,9 @@ MODEL_VERSIONS = {
     "8": "checkpoint-4000/pytorch_lora_weights.safetensors",
     "9": "checkpoint-4500/pytorch_lora_weights.safetensors",
     "10": "checkpoint-5000/pytorch_lora_weights.safetensors",
-    "11": "checkpoint-1100/pytorch_lora_weights.safetensors",
-    "12": "checkpoint-1200/pytorch_lora_weights.safetensors",
-    "13": "checkpoint-1300/pytorch_lora_weights.safetensors",
+    "11": "checkpoint-5500/pytorch_lora_weights.safetensors",
+    "12": "checkpoint-6000/pytorch_lora_weights.safetensors",
+    "13": "v13-3000/pytorch_lora_weights.safetensors",
     "14": "checkpoint-1400/pytorch_lora_weights.safetensors",
     "15": "checkpoint-1500/pytorch_lora_weights.safetensors",
     "16": "checkpoint-1600/pytorch_lora_weights.safetensors",
@@ -39,7 +39,7 @@ DTYPE = torch.float16 if DEVICE == "cuda" and torch.cuda.get_device_capability()
 DEFAULT_STEPS = 30
 DEFAULT_GUIDANCE_SCALE = 7.5
 DEFAULT_SEED = 6224
-DEFAULT_NEG_PROMPT = "deformed, blurry"
+DEFAULT_NEG_PROMPT = "deformed, blurry, dull colors"
 
 CHROMA_KEY_COLOR = (0, 255, 0)
 RGB_TOLERANCE = 3

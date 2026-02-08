@@ -9,6 +9,7 @@ import re
 from typing import Optional, List, Dict, Any
 from src.main.model.schemas import SuccessResponse
 from src.main.config.settings import LORA_ROOT_DIR, BASE_MODEL_ID, DEVICE, DTYPE, MODEL_VERSIONS, DEFAULT_NEG_PROMPT, DEFAULT_GUIDANCE_SCALE, DEFAULT_STEPS, DEFAULT_SEED, CHROMA_KEY_COLOR, RGB_TOLERANCE, COLOR_TARGETS
+from diffusers import AutoencoderKL
 
 pipe: StableDiffusionPipeline | None = None
 lora_actif: str | None = None
@@ -21,12 +22,19 @@ def load_base_model():
 
     print("-> Chargement du pipeline Stable Diffusion (Base)...")
     try:
+        vae = AutoencoderKL.from_pretrained(
+            "stabilityai/sd-vae-ft-mse", 
+            torch_dtype=DTYPE
+        ).to(DEVICE)
+
         pipe = StableDiffusionPipeline.from_pretrained(
             BASE_MODEL_ID,
+            vae=vae,
             torch_dtype=DTYPE,
             safety_checker=None
         )
         pipe.to(DEVICE)
+
         print("-> Pipeline de base prêt.")
     except Exception as e:
         print(f"Erreur fatale au chargement du modèle de base : {e}")
