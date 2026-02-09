@@ -9,26 +9,23 @@ BASE_MODEL_ID = "runwayml/stable-diffusion-v1-5"
 # Va évoluer une fois les itérations d'entrainement terminées
 MODEL_VERSIONS = {
     "final": "final/pytorch_lora_weights.safetensors",
-    "1": "checkpoint-500/pytorch_lora_weights.safetensors",
-    "2": "checkpoint-1000/pytorch_lora_weights.safetensors",
-    "3": "checkpoint-1500/pytorch_lora_weights.safetensors",
-    "4": "checkpoint-2000/pytorch_lora_weights.safetensors",
-    "5": "checkpoint-2500/pytorch_lora_weights.safetensors",
-    "6": "checkpoint-3000/pytorch_lora_weights.safetensors",
-    "7": "checkpoint-3500/pytorch_lora_weights.safetensors",
-    "8": "checkpoint-4000/pytorch_lora_weights.safetensors",
-    "9": "checkpoint-4500/pytorch_lora_weights.safetensors",
-    "10": "checkpoint-5000/pytorch_lora_weights.safetensors",
-    "11": "checkpoint-5500/pytorch_lora_weights.safetensors",
-    "12": "checkpoint-6000/pytorch_lora_weights.safetensors",
-    "13": "v13-3000/pytorch_lora_weights.safetensors",
-    "14": "checkpoint-1400/pytorch_lora_weights.safetensors",
-    "15": "checkpoint-1500/pytorch_lora_weights.safetensors",
-    "16": "checkpoint-1600/pytorch_lora_weights.safetensors",
-    "17": "checkpoint-1700/pytorch_lora_weights.safetensors",
-    "18": "checkpoint-1800/pytorch_lora_weights.safetensors",
-    "19": "checkpoint-1900/pytorch_lora_weights.safetensors",
-    "20": "checkpoint-2000/pytorch_lora_weights.safetensors"
+    "1": "checkpoint-200/pytorch_lora_weights.safetensors",
+    "2": "checkpoint-400/pytorch_lora_weights.safetensors",
+    "3": "checkpoint-600/pytorch_lora_weights.safetensors",
+    "4": "checkpoint-800/pytorch_lora_weights.safetensors",
+    "5": "checkpoint-1000/pytorch_lora_weights.safetensors",
+    "6": "checkpoint-1200/pytorch_lora_weights.safetensors",
+    "7": "checkpoint-1400/pytorch_lora_weights.safetensors",
+    "8": "checkpoint-1600/pytorch_lora_weights.safetensors",
+    "9": "checkpoint-1800/pytorch_lora_weights.safetensors",
+    "10": "checkpoint-2000/pytorch_lora_weights.safetensors",
+    "11": "checkpoint-2200/pytorch_lora_weights.safetensors",
+    "12": "checkpoint-2400/pytorch_lora_weights.safetensors",
+    "13": "checkpoint-2600/pytorch_lora_weights.safetensors",
+    "14": "checkpoint-2800/pytorch_lora_weights.safetensors",
+    "15": "checkpoint-3000/pytorch_lora_weights.safetensors",
+    "16": "checkpoint-3200/pytorch_lora_weights.safetensors",
+    "17": "checkpoint-3400/pytorch_lora_weights.safetensors"
 }
 
 # --- Configuration Matérielle ---
