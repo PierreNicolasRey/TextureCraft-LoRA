@@ -539,6 +539,13 @@ def parse_args(input_args=None):
         help="The image interpolation method to use for resizing images.",
     )
 
+    parser.add_argument(
+        "--noise_offset",
+        type=float,
+        default=0,
+        help="The scale of noise offset. Recommended value: 0.1. Helps with saturation and dynamic range."
+    )
+
     if input_args is not None:
         args = parser.parse_args(input_args)
     else:
@@ -1330,6 +1337,16 @@ def main(args):
 
                 # Sample noise that we'll add to the latents
                 noise = torch.randn_like(model_input)
+
+                # --- NOISE OFFSET INJECTION (V16) ---
+                if hasattr(args, "noise_offset") and args.noise_offset > 0:
+                    # On crée un offset unique par image et par canal (bsz, channels, 1, 1)
+                    # Cela décale la moyenne du bruit pour permettre des couleurs plus saturées
+                    noise += args.noise_offset * torch.randn(
+                        (model_input.shape[0], model_input.shape[1], 1, 1), 
+                        device=model_input.device
+                    )
+
                 bsz, channels, height, width = model_input.shape
                 # Sample a random timestep for each image
                 timesteps = torch.randint(
