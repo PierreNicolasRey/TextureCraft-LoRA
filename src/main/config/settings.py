@@ -28,7 +28,11 @@ MODEL_VERSIONS = {
     "17": "checkpoint-3400/pytorch_lora_weights.safetensors",
     "18": "checkpoint-3600/pytorch_lora_weights.safetensors",
     "19": "checkpoint-3800/pytorch_lora_weights.safetensors",
-    "20": "checkpoint-4000/pytorch_lora_weights.safetensors"
+    "20": "checkpoint-4000/pytorch_lora_weights.safetensors",
+    "21": "checkpoint-4200/pytorch_lora_weights.safetensors",
+    "22": "checkpoint-4400/pytorch_lora_weights.safetensors",
+    "23": "checkpoint-4600/pytorch_lora_weights.safetensors",
+    "24": "checkpoint-4800/pytorch_lora_weights.safetensors"
 }
 
 # --- Configuration Matérielle ---
