@@ -13,6 +13,10 @@ def sync_lora_models_smart(source_path, app_resources_path):
     
     print(f"Vérification des nouveaux modèles dans {source_path}")
 
+    if source_path.resolve() == Path.cwd().resolve():
+        print("Sécurité : La source pointe sur la racine du projet. Annulation.")
+        return
+
     if not source_path.exists():
         print(f"Erreur : Chemin source introuvable.")
         return
@@ -42,11 +46,17 @@ def sync_lora_models_smart(source_path, app_resources_path):
 
     print(f"\nFin de la synchronisation")
 
-    try:
-        print(f"Nettoyage du dossier source : {source_path}")
-        shutil.rmtree(source_path)
-        source_path.mkdir(parents=True, exist_ok=True)
-    except Exception as e:
-        print(f"Erreur lors du nettoyage : {e}")
+    print(f"\nDébut du nettoyage")
+    for item in os.listdir(source_path):
+        item_path = source_path / item
+        try:
+            if item_path.is_dir():
+                shutil.rmtree(item_path)
+            else:
+                os.remove(item_path)
+            print(f"\nFin du nettoyage")
+        except Exception as e:
+            print(f"Impossible de supprimer {item}: {e}")
 
-sync_lora_models_smart(SOURCE_LORA_DIR, LORA_ROOT_DIR)
+if __name__ == "__main__":
+    sync_lora_models_smart(SOURCE_LORA_DIR, LORA_ROOT_DIR)
