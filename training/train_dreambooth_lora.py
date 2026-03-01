@@ -546,6 +546,12 @@ def parse_args(input_args=None):
         help="The scale of noise offset. Recommended value: 0.1. Helps with saturation and dynamic range."
     )
 
+    parser.add_argument(
+        "--alpha_network",
+        type=int,
+        default=128
+    )
+
     if input_args is not None:
         args = parser.parse_args(input_args)
     else:
@@ -1015,7 +1021,7 @@ def main(args):
     # now we will add new LoRA weights to the attention layers
     unet_lora_config = LoraConfig(
         r=args.rank,
-        lora_alpha=args.rank,
+        lora_alpha=args.alpha_network,
         lora_dropout=args.lora_dropout,
         init_lora_weights="gaussian",
         target_modules=["to_k", "to_q", "to_v", "to_out.0", "add_k_proj", "add_v_proj"],
@@ -1026,7 +1032,7 @@ def main(args):
     if args.train_text_encoder:
         text_lora_config = LoraConfig(
             r=args.rank,
-            lora_alpha=args.rank,
+            lora_alpha=args.alpha_network,
             lora_dropout=args.lora_dropout,
             init_lora_weights="gaussian",
             target_modules=["q_proj", "k_proj", "v_proj", "out_proj"],
